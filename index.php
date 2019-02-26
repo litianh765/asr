@@ -53,7 +53,7 @@
 									localURL=trailingSlashRemover(cell_data[urlName]);
 									console.log(localURL);
 								}
-                                table_data += '<td>' + `<a href=${localURL} target="_blank">` + '<div>' + cell_data[productName] + '</div>' + '</a>' + '</td>';
+                                table_data += '<td>' + `<a href=${localURL}>` + '<div>' + cell_data[productName] + '</div>' + '</a>' + '</td>';
                             }
                             else if ((cell_count === 0 || cell_count === asrName)) {
                                 table_data += '<td>' + cell_data[cell_count] + '</td>';
