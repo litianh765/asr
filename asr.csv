@@ -1,4 +1,4 @@
-﻿;Name of Added Sugar;FDA;USDA;AHA;UCSF;HSPH;Popkin;other;Product Name;URL;note;checking;todo
+;Name of Added Sugar;FDA;USDA;AHA;UCSF;HSPH;Popkin;other;Product Name;URL;note;checking;todo
 1;Agave Nectar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Panera Agave Lemonade;https://www.panerabread.com/en-us/menu-categories/drinks.html#agave-lemonade;-;checked;
 2;Agave Syrup;;;;X;X;;in ASR;Starbucks Lemon Chiffon Yogurt;https://www.starbucks.com/menu/food/yogurt-and-fruit/lemon-chiffon-yogurt?foodZone=9999;-;checked;
 3;Anhydrous Dextrose;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;;;;in ASR;Starbucks Chocolate Croissant;https://www.starbucks.com/menu/food/bakery/chocolate-croissant-lb;-;checked;
@@ -28,20 +28,20 @@
 27;Cane Molasses;;;;;;;in ASR;Among Friends Shane's Molasses Ginger Cookie Mix;http://amongfriendsbakingmixes.com/shanes-5/;-;checked;
 28;Cane Refinery Syrup;;;;;;;in ASR;Whataburger Grilled Chicken Sandwich;http://whataburger.com/food/item/grilled-chicken-sandwich-;-;checked;
 29;Cane Sugar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Starbucks Smoked Mozarella & Roasted Pepper Sandwich;https://www.starbucks.com/menu/food/mercato/smoked-mozzarella-roasted-peppers;-;checked;
-30;Cane Syrup;;;;X;;;in ASR;Cinnamon Raisin Bagel;https://udisglutenfree.com/products/cinnamon-raisin-bagel/;-;checked;
+30;Cane Syrup;;;;X;;;in ASR;Udis Gluten Free Cinnamon Raisin Bagel;https://udisglutenfree.com/products/cinnamon-raisin-bagel/;-;checked;
 31;Caramelized Pear Juice Concentrate;;;;;;;in ASR;Bakery On Main Extreme Nut & Fruit Granola;https://bakeryonmain.com/shop/extreme-nut-fruit-granola/;-;checked;
 32;Caramelized Sugar;;;;;;;in ASR;Gravymaster;http://www.gravymaster.com/nutritional-information/;-;checked;
 33;Caramelized Sugar Syrup;;;;;;;in ASR;Sahale Snacks Honey Almonds Glazed Mix;http://www.sahalesnacks.com/products/honey-almonds-glazed-mix;-;checked;
-34;Carrot Juice Concentrate;;;;;;;in ASR;V8® Fruit & Vegetable Blends Carrot Mango;https://www.campbells.com/v8/v8-fruit-and-vegetable-blends/carrot-mango/;-;checked;
+34;Carrot Juice Concentrate;;;;;;;in ASR;V8Â® Fruit & Vegetable Blends Carrot Mango;https://www.campbells.com/v8/v8-fruit-and-vegetable-blends/carrot-mango/;-;checked;
 35;Cherry Juice Concentrate;;;;;;X;in ASR;Chobani Black Cherry On The Bottom Yogurt;https://www.chobani.com/products/greek/fruit-on-the-bottom/black-cherry/;-;checked;
 36;Clover Honey;;;;;;;in ASR;Tears Of Joy Kent's Sauce;https://www.tearsofjoysauces.com/products/kents-sauce;-;checked;
 37;Coconut Blossom Sugar;;;;;;;in ASR;Dream Pops Chocolate Lion;https://dreampops.com/collections/all/products/chocolate-lion;-;checked;
 38;Coconut Nectar;;;;;;;in ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;-;checked;
-39;Coconut Palm Nectar;;;;;;;in ASR;Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;checked;
+39;Coconut Palm Nectar;;;;;;;in ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;checked;
 40;Coconut Palm Sugar;;;;X;;;in ASR;Fage Crossovers;https://usa.fage/yogurts/fage-crossovers#maple-syrup-granola;-;checked;
 41;Coconut Sugar;;;;X;;;in ASR;Miracle Noodle;https://miraclenoodle.com/products/miracle-noodle-ready-to-eat-spaghetti-with-tomato-sauce;-;checked;
 42;Coconut Sugar Crystals;;;;;;;in ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;-;checked;
-43;Coconut Syrup;;;;;;;in ASR;Blueberry Cranberry Chia Bar;https://nutritiondatalist.com/product/blueberry-cranberry-chia-bar-upc-819944013164;base on organic on ASR;checked;change source
+43;Coconut Syrup;;;;;;;in ASR;B&g Foods Blueberry Cranberry Chia Bar;https://nutritiondatalist.com/product/blueberry-cranberry-chia-bar-upc-819944013164;base on organic on ASR;checked;change source
 44;Confectioners' Sugar;;;;X;;;in ASR;Whole Foods Gluten-free Vanilla Cupcakes;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;-;checked;
 45;Corn Barley Malt Syrup;;;;;;;in ASR;Country Life Natural Foods Cashwe Date Delight Granola;https://www.clnf.org/cashew-date-delight-3;-;checked;
 46;Corn Dextrin;;;;;;;in ASR;Swiss Miss Sensible Sweets Light Hot Cocoa;https://www.keurig.com/medias/sensible-sweets-swiss-miss-nutrional-info.jpg?context=bWFzdGVyfG51dHJpdGlvbmFsLWluZm9ybWF0aW9ufDM4NjU3NXxpbWFnZS9qcGVnfG51dHJpdGlvbmFsLWluZm9ybWF0aW9uL2gxYy9oMzAvMjgzMTQzNzYzMzk0ODYuanBnfDNmNTY3MGFlZmJkZDE5MWU1MDljM2UxMWUwMWRiNmI1OTY5ZDZjYTFlNWVhNDJkYWI2NzE2YWQyZTJlYmM3N2U;-;checked;Not sure
@@ -79,74 +79,74 @@
 78;Evaporated Cane Crystals;;;;;;;in ASR;Tanka Sticks Slow Smoked Original;http://www.tankabar.com/cgi-bin/nanf/public/viewStory.cvw?sessionid=497c4676af9ce8358b4f29fc472e4241cdb92ddae837&storyid=134975&sectionname=Nutritionals&commentbox=Y;-;checked;
 79;Evaporated Cane Juice;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Udi's Chocolate Chia Muffin Tops;https://udisglutenfree.com/products/chocolate-chia-muffin-tops/;-;checked;product discontinued 
 80;Evaporated Cane Juice Invert Syrup;;;;;;;in ASR;Whole Foods Back To Nature Dark Chocolate And Oats Granola Cookie;https://www.backtonaturefoods.com/what-we-make/cookies/dark-chocolate-oats-granola-cookies/;-;checked;link changed
-81;Evaporated Cane Juice Syrup;;;;;;;in ASR;Almondmilk, Vanilla;https://www.walmart.com/ip/Great-Value-Vanilla-Almond-Milk-64-oz/46491746;based on organic evaporated cane juice syrup;checked;link changed
-82;Evaporated Cane Sugar;;;;X;X;;in ASR;Popcorners, Kettle Corn;https://www.popcorners.com/index.php/snacks/pop-corners/kettle-corn-pop-corners.html;Based on cane sugar;checked;product discontinued 
+81;Evaporated Cane Juice Syrup;;;;;;;in ASR;Great Value Vanilla Almondmilk;https://www.walmart.com/ip/Great-Value-Vanilla-Almond-Milk-64-oz/46491746;based on organic evaporated cane juice syrup;checked;link changed
+82;Evaporated Cane Sugar;;;;X;X;;in ASR;Popcorners Kettle Corn;https://www.popcorners.com/pop-corners/kettle-corn-pop-corners;Based on cane sugar;checked;product discontinued 
 83;Evaporated Cane Syrup;X;X;X;X;X;;in ASR;Weight Watchers Smart Made White Wine Chicken And Couscous;https://www.eatyourbest.com/smartmade/product/00025800000234;Based on cane syrup;checked;link changed
-84;Evaporated Coconut Palm Nectar;;;;;;;in ASR;Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;checked;
-85;Fair Trade Unrefined Cane Sugar;;;;;;;in ASR;Pomegranate Ketçhup;https://www.tabl.com/aphrodites/pomegranate-ket%C3%A7hup;base on organic on ASR;checked;
+84;Evaporated Coconut Palm Nectar;;;;;;;in ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;checked;
+85;Fair Trade Unrefined Cane Sugar;;;;;;;in ASR;Tabl Pomegranate KetÃ§hup;https://www.tabl.com/aphrodites/pomegranate-ket%C3%A7hup;base on organic on ASR;checked;
 86;Fondant Sugar;;;;;;;in ASR;Dan's Chocolates Classic Assorted;https://www.danschocolates.com/ingredients;-;checked;
 87;Fructan;;;;;;;in ASR;Barbara's Better Than Granola Dark Chocoalte Cranberry Granola;http://barbaras.com/products/barbaras-better-granola/barbaras-better-dark-chocolate-and-cranberry-granola/;-;checked;website shutdown
 88;Fructooligosaccharides;;;;;;;in ASR;Similac Organic Baby Formula;https://similac.com/baby-formula/similac-advance-organic;-;checked;
 89;Fructose;X;X;X;X;X;;in ASR;Nature Valley Protein Bar Peant Butter Chocolate Chip;https://www.naturevalley.com/product/gluten-free-protein-bars-peanut-butter-dark-chocolate/;-;checked;
 90;Fruit Juice Concentrate;X;;X;X;X;;in ASR;Amande Cultured Almondmilk Plain Yogurt;http://www.amandeyogurt.com/flavors.html;-;checked;
 91;Galactooligosaccharides;;;;;;;in ASR;Similac Go & Grow Non-gmo Toddler Drink;https://similac.com/toddler-formula/go-grow-non-gmo;-;checked;
-92;Glucose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Lemon Blueberry Greek Yogurt Muffin;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;checked;link changed
+92;Glucose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Tim Horton's Lemon Blueberry Greek Yogurt Muffin;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;checked;link changed
 93;Glucose Fructose Syrup;;;;;;;in ASR;Excellence Blackberry Acai 3.5oz;https://www.lindtusa.com/wcsstore/LindtCatalogAssetStore/Attachment/products/nutritional/nutritional-information-SKU-E000486.pdf;-;checked;
-94;Glucose Solids;;;;;;;in ASR;Cinnamon Rolls;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;checked;
-95;Glucose Syrup;;;;;;;in ASR;Glaze Made With Balsamic Vinegar Of Modena;https://app.salsify.com/catalogs/8d479ec2-aefa-4432-80ef-858b9b084952/products/70430;-;checked;
+94;Glucose Solids;;;;;;;in ASR;Tim Horton's Cinnamon Rolls;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;checked;
+95;Glucose Syrup;;;;;;;in ASR;Roland Balsamic Glaze with Balsamic Vinegar of Modena;https://app.salsify.com/catalogs/8d479ec2-aefa-4432-80ef-858b9b084952/products/70430;-;checked;
 96;Glucose Syrup Solids;;;;;;;in ASR;The Curious Creamery Vanilla Ice Cream Mix ;https://shop.thecuriouscreamery.com/vanilla-ice-cream-mix-6-pouch-pack/;-;checked;wrong item
-97;Goji Berry Juice Concentrate;;;;;;;in ASR;Fruit Flavored Centers;https://www.brooksidechocolate.com/en_us/products/goji-raspberry.html;-;checked;
+97;Goji Berry Juice Concentrate;;;;;;;in ASR;Brookside Chocolate Fruit Flavored Centers;https://www.brooksidechocolate.com/en_us/products/goji-raspberry.html;-;checked;
 98;Golden Sugar;;;;X;;;in ASR;Harvest Honey Grain Bread;https://www.nutritionix.com/i/meijer/harvest-honey-grain-bread/567fde056717e0f47aa02917;-;checked;source not accepted
 99;Golden Syrup;;;;X;;;in ASR;Raincoast Crisps;http://www.lesleystowe.com/product-line/raincoast-crisps/;-;checked;
-100;Granulated Sugar;;;;;;X;in ASR;;http://shanecandies.com/wp-content/uploads/2016/09/Ingredients_-_Sept_2016.pdf;-;checked;website shutdown
+100;Granulated Sugar;;;;;;X;in ASR;;http://shanecandies.com/wp-content/uploads/2016/09/Ingredients_-_Sept_2016.pdf;#NAME?;checked;website shutdown
 101;Grape Juice Concentrate;;;;;;X;in ASR;BodyBuilding Cake Bites High Protein Snack ;https://www.bodybuilding.com/store/optimum-nutrition/cake-bites.html?mcid=GGL_US_Products_Products_Optimum_Cake_Bites&bbkwid=298107199608&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6fXnkkhv6hTgJk2UE-4Dt_V8aWEU_yqCT7eKhyl5BhH5dApvZ9VIDxoC_dQQAvD_BwE;-;checked;wrong source
 102;Grape Sugar;;;;;;;in ASR;Olbas Wellness Tea;http://www.olbas.com/olbas-remedies/olbas-herbal-tea/;-;checked;
 103;Grapefruit Juice Concentrate;;;;;;;in ASR;BodyBuilding Cake Bites High-Protein Snack ;https://www.bodybuilding.com/store/optimum-nutrition/cake-bites.html?mcid=GGL_US_Products_Products_Optimum_Cake_Bites&bbkwid=298107199608&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6fXnkkhv6hTgJk2UE-4Dt_V8aWEU_yqCT7eKhyl5BhH5dApvZ9VIDxoC_dQQAvD_BwE;-;checked;wrong source
-104;Guava Juice Concentrate;;;;;;;in ASR;Nestlé Vitality Passion Fruit Orange Guava Frozen Juice Concentrate;https://www.nestleprofessional.us/nestle-vitality/nestle-vitality-passion-fruit-orange-guava-cocktail-10-frozen-concentrate-6-x-64-oz;-;checked;
-105;High Fructose Corn Syrup;X;X;X;;X;;in ASR;V8 Splash® Berry Blend;https://www.campbellsfoodservice.com/product/v8-splash-berry-blend-3/;-;checked;
-106;High Maltose Corn Syrup Solids;;;;;;;in ASR;Mango Habanero;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;-;checked;?
+104;Guava Juice Concentrate;;;;;;;in ASR;NestlÃ© Vitality Passion Fruit Orange Guava Frozen Juice Concentrate;https://www.nestleprofessional.us/nestle-vitality/nestle-vitality-passion-fruit-orange-guava-cocktail-10-frozen-concentrate-6-x-64-oz;-;checked;
+105;High Fructose Corn Syrup;X;X;X;;X;;in ASR;V8 SplashÂ® Berry Blend;https://www.campbellsfoodservice.com/product/v8-splash-berry-blend-3/;-;checked;
+106;High Maltose Corn Syrup Solids;;;;;;;in ASR;The Blue Pacific Grill Mango Habanero;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;-;checked;?
 107;Honey;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Honey Nut Cheerios;http://www.cheerios.com/en/products/Honey%20Nut%20Cheerios.aspx;-;checked;
-108;Honey Powder;;;;;;;in ASR;Chicken Wings Honey Bbq;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;-;checked;
-109;Honeydew Juice Concentrate;;;;;;;in ASR;Green Tea Matcha Latte;https://www.tazo.com/green-tea/green-tea-matcha-latte;-;checked;
+108;Honey Powder;;;;;;;in ASR;TGI Friday's Chicken Wings Honey Bbq;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;-;checked;
+109;Honeydew Juice Concentrate;;;;;;;in ASR;Tazo Green Tea Matcha Latte;https://www.tazo.com/green-tea/green-tea-matcha-latte;-;checked;
 110;Icing Sugar;;;;X;;;in ASR;Trader Joes Peaches & Cream Tarte;https://www.traderjoes.com/digin/post/peaches--cream-tarte;-;checked;
 111;Invert Cane Sugar;;;;;;;in ASR;Pringles Sour Cream And Onion Chips;https://www.pringles.com/us/products/favorites/sour-cream-onion.html#nutrition-modal;-;checked;wrong source
-112;Invert Cane Syrup;;;;;;;in ASR;;https://boomchickapop.com/our-products/;-;checked;
-113;Invert Sugar;X;X;X;X;X;;in ASR;Pringles® Sour Cream & Onion;https://www.pringles.com/us/products/favorites/sour-cream-onion.html#nutrition-modal;-;checked;
+112;Invert Cane Syrup;;;;;;;in ASR;Sea Salt Popcorn;https://boomchickapop.com/our-products/;#NAME?;checked;
+113;Invert Sugar;X;X;X;X;X;;in ASR;PringlesÂ® Sour Cream & Onion;https://www.pringles.com/us/products/favorites/sour-cream-onion.html#nutrition-modal;-;checked;
 114;Invert Sugar Cane Syrup;;;;;;;in ASR;Boni Selection Bio Gingerbread Sliced 300 Gr;https://www.mangebelge.com/en/biscuits-gaufres/315-boni-selection-bio-gingerbread-sliced-300-gr-5400141104424.html;base on organic on ASR;checked;
 115;Invert Sugar Syrup;;;;;;;in ASR;Daystar Desserts, Chocolate Trioligy Cake, Chocolate Trilogy;https://nutritiondatalist.com/product/daystar-desserts-chocolate-trioligy-cake-chocolate-trilogy-upc-019951051092;base on organic on ASR;checked;source not accepted
 116;Invert Syrup;;;;;;;in ASR;Chuckanut Cheesecake Company Fruit Cake;https://nutritiondatalist.com/product/fruit-cake-upc-603812580601;base on organic on ASR;checked;source not accepted
 117;Isomalto-oligosaccharide;;;;;;;in ASR;Em-Power Peanut Butter Paradise Bars;http://em-powerbars.com/nutrition-facts/;-;checked;
 118;Kiwi Juice Concentrate;;;;;;;in ASR;Snapple Kiwi Strawberry;https://www.snapple.com/products/snapple-kiwi-strawberry-juice;-;checked;
-119;Lactose;X;X;X;;;;in ASR;;https://www.fiberone.com/products/sweet-treats/salted-caramel-cheesecake;-;checked;product discontinued 
+119;Lactose;X;X;X;;;;in ASR;product name not found;https://www.fiberone.com/products/sweet-treats/salted-caramel-cheesecake;#NAME?;checked;product discontinued 
 120;Lemon Juice Concentrate;;;;;;;Perfact;;;;;new-2019-2-22
 121;Light Brown Cane Sugar;;;;;;;in ASR;Truemadefoods Pitmaster BBQ Sauce;https://www.truemadefoods.com/shop/sauces/pitmaster-bbq-sauce-original;-;checked;wrong source
 122;Light Brown Sugar;;;;;;;in ASR;Oatmega Peanut Butter;http://shop.oatmega.com/Peanut-Butter/p/OAT-020202&c=Oatmega@Cookies#;-;checked;
 123;Liquid Sugar;;;;;;;in ASR;Wegmans Pink Grapefruit Sorbet;https://www.wegmans.com/products/frozen-foods/ice-cream-and-frozen-yogurt/ice-cream/pink-grapefruit-sorbet.html;-;checked;
-124;Loganberry Juice Concentrate;;;;;;;in ASR;;https://store.citymade.com/crystal-beach-loganberry-20oz-bottle.html;-;checked;website shutdown
+124;Loganberry Juice Concentrate;;;;;;;in ASR;product name not found;https://store.citymade.com/crystal-beach-loganberry-20oz-bottle.html;#NAME?;checked;website shutdown
 125;Malt Extract;;;;;;;in ASR;Oats & Chocolate;https://www.fiberone.com/products/bars/oats-chocolate;-;checked;
 126;Malt Sugar;X;;X;;;;wiki;;;-;;wrong link on web and source not accepted
 127;Malt Syrup;;X;;X;X;;in ASR;Fiber One Honey Clusters;https://www.fiberone.com/products/cereals/honey-clusters;-;checked;
-128;Maltodextrin;;;;X;;;in ASR;Nissin Cup Noodles®;http://nissinfoods.com/products/cup-noodles;-;checked;
-129;Maltol;;;X;X;X;;in ASR;Mccormick Culinary® Lemon 'n Herb Seasoning;http://www.mccormickforchefs.com/products/mccormick-culinary/lemon-n-herb-seasoning;-;checked;it is flavor enhancer, so...?
+128;Maltodextrin;;;;X;;;in ASR;Nissin Cup NoodlesÂ®;http://nissinfoods.com/products/cup-noodles;-;checked;
+129;Maltol;;;X;X;X;;in ASR;Mccormick CulinaryÂ® Lemon 'n Herb Seasoning;http://www.mccormickforchefs.com/products/mccormick-culinary/lemon-n-herb-seasoning;-;checked;it is flavor enhancer, so...?
 130;Maltose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;A-sha Seaweed Snack - Original Flavor;http://www.ashaseaweedsnacks.com/the-original-2/;-;checked;
 131;Mango Juice Concentrate;;;;;;;in ASR;Bai Malawi Mango;http://www.drinkbai.com/products/malawi-mango;-;checked;
-132;Mangosteen Juice Concentrate;;;;;;;in ASR;;https://www.bruceleetea.com/honeydew/;-;checked;product discontinued 
+132;Mangosteen Juice Concentrate;;;;;;;in ASR;product name not found;https://www.bruceleetea.com/honeydew/;#NAME?;checked;product discontinued 
 133;Maple Sugar;;;;;;;in ASR;Base Culture's Paleo Almond Butter Gingerbread;https://baseculture.com/collections/almond-butters/products/almond-butter-gingerbread?variant=42899641480;-;checked;
 134;Maple Syrup;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Nature Valley Maple Brown Sugar Big And Crunchy Granola;https://www.naturevalley.com/product/maple-brown-sugar-granola-crunch/;-;checked;
-135;Maple Syrup Concentrate;;;;;;;in ASR;;http://www.lesleystowe.com/product-line/raincoast-veggie-flats/;-;;
-136;Marion Blackberry Juice Concentrate;;;;;;;in ASR;;http://shanecandies.com/wp-content/uploads/2016/09/Ingredients_-_Sept_2016.pdf;-;;
+135;Maple Syrup Concentrate;;;;;;;in ASR;product name not found;http://www.lesleystowe.com/product-line/raincoast-veggie-flats/;#NAME?;;
+136;Marion Blackberry Juice Concentrate;;;;;;;in ASR;product name not found;http://shanecandies.com/wp-content/uploads/2016/09/Ingredients_-_Sept_2016.pdf;#NAME?;;
 137;Melonjuice Concentrate;;;;;;;in ASR;Hi-Chew Candy;https://www.hi-chew.com/nutrition-information/#grabBag-nutrition;-;;
 138;Milled Cane Sugar;;;;;;;in ASR;Starbucks Fresh Blueberries and Honey Greek Yogurt Parfait;https://www.starbucks.com/menu/food/yogurt-and-fruit/fresh-blueberries-and-honey-greek-yogurt-parfait?foodZone=9999;-;;
-139;Molasses;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;;http://www.smartmademeals.com/product/details/6;-;;
-140;Molasses Granules;;;;;;;x;Darcy’s Delish Old Fashioned Chocolate Chip Cookie Mix;http://amongfriendsbakingmixes.com/darcys-delish-old-fashioned-chocolate-chip-cookie-mix/;-;base on organic on ASR;update on website
-141;Molasses Powder;;;;;;;in ASR;;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;;
-142;Muscovado;;;;X;;;in ASR;;https://www.zotterusa.com/labooko-pure-chocolate/225-cacao-nature-75-with-muscovado-sugar-crackers-9006403036203.html;-;;
+139;Molasses;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;ROSEMARY GRILLED BEEF AND VEGETABLES;https://www.eatyourbest.com/smartmade/product/00025800000326;-;;
+140;Molasses Granules;;;;;;;x;Darcyâ€™s Delish Old Fashioned Chocolate Chip Cookie Mix;http://amongfriendsbakingmixes.com/darcys-delish-old-fashioned-chocolate-chip-cookie-mix/;-;base on organic on ASR;update on website
+141;Molasses Powder;;;;;;;in ASR;Maple Cinnamon French Toast Bagel;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;;
+142;Muscovado;;;;X;;;in ASR;product name not found;https://www.zotterusa.com/labooko-pure-chocolate/225-cacao-nature-75-with-muscovado-sugar-crackers-9006403036203.html;#NAME?;;
 143;Non-gmo Honey;;;;;;;in ASR;Barbara's Bakery Better Granola, Dark Chocolate Cranberry;http://shop.barbaras.com/Dark-Chocolate-Cranberry-Better-Granola/p/BAR-300152&c=BarbarasBakery@Cereals@Granola#;-;;
 144;Oat Syrup Solids;;;;;;;in ASR;Back To Nature Apple Cinnamon Granola Clusters;http://www.backtonaturefoods.com/what-we-make/granola/granola-clusters/apple-cinnamon-granola-clusters/;-;;
 145;Orange Juice Concentrate;;;;;;;in ASR;Bai Costa Rica Clementine Drink;http://www.drinkbai.com/products/costa-rica-clementine;-;;
 146;Organic Agave;;;;;;;in ASR;Wegmans Sushi ;https://www.wegmans.com/products/sushi/family-pack/sushi/sushi-party-pack-family-pack.html;Based on agave nectar;;
 147;Organic Agave Nectar;;;;X;;;in ASR;The Gluten Free Bar Oatmeal Raisin Bars;https://theglutenfreebar.com/products/the-gfb-oatmeal-raisin-protein-bars-case-of-12?variant=395090025&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6eSX81HgJqEWFSyJ5d6t0PSc7RjAZ14IcI78DRhdrw_62RljBMHIEBoCNZgQAvD_BwE;-;;
-148;Organic Agave Syrup;;;;X;X;;in ASR;;https://store.nugonutrition.com/nugo-organic-dark-chocolate-pomegranate-3;Based on agave syrup;;
+148;Organic Agave Syrup;;;;X;X;;in ASR;NuGo Organic Nutrition Bar, Dark Chocolate Pomegranate;https://store.nugonutrition.com/nugo-organic-dark-chocolate-pomegranate-3;Based on agave syrup;;
 149;Organic Apple Juice Concentrate;;;;;;;in ASR;Barbaras Honest Os Honey Nut;http://barbaras.com/products/barbaras-classics/honest-os-honey-nut/;-;;
 150;Organic Barley Malt Syrup;;;;X;;;in ASR;Wegmans Granola, Organic, Coconut & Baobab;https://www.wegmans.com/products/grocery-food/breakfast/granola/granola-organic-coconut-baobab.html;Based on barley malt syrup;;
 151;Organic Blueberry Juice Concentrate;;;;;;;in ASR;Stonyfield Kids Tubes Of Strawberry Lemonade;https://www.stonyfield.com/products/baby-kids/kids/tubes-blueberry-lemonade;-;;
@@ -154,7 +154,7 @@
 153;Organic Brown Sugar;X;X;X;X;X;;in ASR;Annies Organic Brown Sugar Cinnamon Toaster Pastries;https://www.annies.com/products/cereal/organic-brown-sugar-cinnamon-toaster-pastries;Based on brown sugar;;
 154;Organic Cane Crystals;;;;;X;;in ASR;Flying Bird Botanicals Cacao Especial;https://www.flyingbirdbotanicals.com/collections/organic-cacao/products/cacao-especial;Based on cane crystals;;
 155;Organic Cane Sugar;;;;X;X;;in ASR;365 Everyday Value Organic Whole Wheat Pancakes;https://www.wholefoodsmarket.com/products/365-everyday-value-organic-whole-wheat-pancakes;Based on cane sugar;;
-156;Organic Cane Syrup;;;;X;;;in ASR;;https://www.clifbar.com/products/clif/clif-bar;Based on cane syrup;;
+156;Organic Cane Syrup;;;;X;;;in ASR;Clif Bar CARAMEL TOFFEE WITH SEA SALT FLAVOR;https://www.clifbar.com/products/clif/clif-bar;Based on cane syrup;;
 157;Organic Cherry Juice Concentrate;;;;;;X;in ASR;Clif Tart Cherry Berry Flavor;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;Based on cherry juice concentrate;;
 158;Organic Coconut Blossom Nectar;;;;;;;in ASR;Simpletruth Coconut Aminos All Purpose Seasoning Sauce;https://www.simpletruth.com/products/coconut-aminos-all-purpose-seasoning-sauce/;-;update on website, search other prefix and suffix for nectar...;update on website
 159;Organic Coconut Nectar;;;;;;;in ASR;Rise Bar Lemon Cashew Protein Bar;https://risebar.com/collections/plant-protein-bars/products/lemon-cashew-protein-bars;-;;was on ASR but not on this list, missed? or other reason?
@@ -165,10 +165,10 @@
 164;Organic Corn Syrup Solids;;X;;X;;;in ASR;Vermont Organics Organic Baby Formula;http://www.vermontorganicsformula.com/Organic-Baby-Formula.aspx;Based on corn syrup solids;;
 165;Organic Date Sugar;;;;;;;in ASR;Dr. Fuhrman's MatoZest;https://www.drfuhrman.com/shop/products/40/matozest-salt-free-seasoning;-;;
 166;Organic Date Syrup;;;;;;;in ASR;Date Lady Chocolate Spread;https://ilovedatelady.com/products/chocolate-spread;-;;
-167;Organic Dextrose;X;X;X;X;X;;in ASR;Spun Paradise Organic Cotton Candy Watermelon;Spun Paradise Organic Cotton Candy Watermelon;Based on dextrose;;
-168;Organic Dried Brown Rice Syrup;;;;;;X;in ASR;;https://www.gomacro.com/shop/thrive-bars/ginger-lemon/;Based on dried brown rice syrup;;
+167;Organic Dextrose;X;X;X;X;X;;in ASR;Spun Paradise Organic Cotton Candy Watermelon;https://www.spunparadise.com/organic/organic-watermelon;Based on dextrose;;
+168;Organic Dried Brown Rice Syrup;;;;;;X;in ASR;MarcoBar ginger lemon flavor;https://www.gomacro.com/shop/thrive-bars/ginger-lemon/;Based on dried brown rice syrup;;
 169;Organic Dried Cane Sugar;;;;;;;in ASR;NaturesBakery Organic Honey Oat And Blueberry Bars;https://naturesbakery.com/snack-products/organic-honey-oat-bars-blueberry;-;;
-170;Organic Dried Cane Syrup;;;;;;;in ASR;;http://www.clifbar.com/products/clif/builder-s;-;;
+170;Organic Dried Cane Syrup;;;;;;;in ASR;Clif Bar CHOCOLATE MINT;http://www.clifbar.com/products/clif/builder-s;-;;
 171;Organic Dried Cherry Juice Concentrate;;;;;;;in ASR;Clif Fruit Smoothie Filled Tart Cherry Berry Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;cherry juice concentrate no organic;
 172;Organic Dried Cranberry Juice Concentrate;;;;;;;in ASR;Clif Fruit Smoothie Filled Tart Cherry Berry Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;sugar not found;
 173;Organic Evaporated Cane Juice;;;;X;;;in ASR;GoPicnic Peanut Butter and Crackers;http://gopicnic.com/peanut-butter-crackers;Based on evaporated cane juice;ok;
@@ -196,10 +196,10 @@
 195;Organic Oat Syrup Solids;;;;;;;in ASR;Nature Path Love Crunch Dark Chocolate Macaroon Granola Bars;https://www.naturespath.com/en-us/products/love-crunch/dark-chocolate-macaroon-granola-bars/;-;oat syrup solids;
 196;Organic Panela Sugar;;;;;;;in ASR;French Bread Chocolate The Orange + Olive Oil + Fennel Truffle;https://www.frenchbroadchocolates.com/products/the-orange-olive-oil-fennel-truffle;-;page not work;
 197;Organic Pineapple Juice Concentrate;;;;;;;in ASR;Woodstock Organic Bbq Sauce, Hickory;http://www.plummarket.com/store/woodstock-organic-hickory-bbq-sauce-18oz.html;-;Organic pineapple juice concentrate in ingredient;
-198;Organic Powdered Sugar;;;;X;;;in ASR;Unreal Dark Chocolate Peanut Butter Cups;Unreal Dark Chocolate Peanut Butter Cups;Based on powdered sugar;ok;
+198;Organic Powdered Sugar;;;;X;;;in ASR;Unreal Dark Chocolate Peanut Butter Cups;http://getunreal.com/;Based on powdered sugar;ok;
 199;Organic Raisin Juice Concentrate;;;;;;;in ASR;Cascadian Farm Sweet & Salty Peanut Pretzel Granola Bars;https://www.cascadianfarm.com/product/sweet-salty-peanut-pretzel-chewy-granola-bar/;-;;
 200;Organic Raw Dark Agave Syrup;;;;;;;in ASR;Mountain Muesli Cherry Almond Cereal;https://www.mountainmuesli.com/cereal-1/cherry-almond;-;;
-201;Organic Raw Honey;;;;;;;in ASR;Bliss Nut-butters All Natural Peanut Butter;Bliss Nut-Butters All Natural Peanut Butter;-;;
+201;Organic Raw Honey;;;;;;;in ASR;Bliss Nut-butters All Natural Peanut Butter;https://www.blissnutbutters.com/;-;;
 202;Organic Rice Syrup;;;;X;;;in ASR;Field Day Organic Cinnamon Flax Granola;https://www.fielddayproducts.com/product/organic-cinnamon-flax-granola-4256360373;Based on rice syrup;;
 203;Organic Rice Syrup Solids;;;;;;;in ASR;Clif Bar Fruit Smoothie Filled Tart Cherry Berry;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;;
 204;Organic Strawberry Juice Concentrate;;;;;;;in ASR;Stonyfield Yokids Whole Milk Tubes Strawberry;https://www.stonyfield.com/products/baby-kids/kids/tubes-whole-milk-strawberry-banana;-;;
@@ -229,7 +229,7 @@
 228;Pure Maple Syrup;;;;;;;in ASR;Michele's Granola: Toasted Muesli;https://www.michelesgranola.com/products/toasted-muesli;-;ok;
 229;Pure White Honey;;;;;;;in ASR;Blue Pacific Grill Honey Garlic Soy Sauce;https://www.nutritionix.com/brand/the-blue-pacific-grill/products/ae49287057d6f8a97f5275c5;-;;https://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf
 230;Raisin Juice Concentrate;;;;;;;in ASR;New Yorker Bagels Kettle Boiled Wheat Bagel;https://wholesale-bagels.newyorkerbagels.com/wp-content/uploads/2015/02/NYWB-Wheat-Everything-water-bagles.pdf;-;;https://www.newyorkerbagels.com/pages/fresh-bagel-ingredients-nutritional-information
-231;Raisin Nectar;;;;;;;in ASR;Silver Hills Squirrelly Bread;Silver Hills Squirrelly Bread;-;ok;
+231;Raisin Nectar;;;;;;;in ASR;Silver Hills Squirrelly Bread;https://silverhillsbakery.ca/our-products/squirrelly-bread/;-;ok;
 232;Rapadura;;;;;;;in ASR;Top Organic Rapunzle Dark Chocolate Bar With Hazelnut;https://www.amazon.com/Rapunzel-Organic-Chocolate-Hazelnuts-3-Ounce/dp/B000E3C3QM;-;not on offical website;
 233;Raspberry Juice Concentrate;;;;;;;in ASR;Turkey Hill Raspberry Cream Swirl Ice Cream;https://www.turkeyhill.com/frozen/ice-cream/premium-ice-cream/raspberry-cream-swirl;-;ok;
 234;Raw Cane Sugar;;;;;;;in ASR;Finally Ginger Original Ginger Cookie;http://www.finallyginger.com/;-;no ingredient on offical website;
@@ -273,19 +273,3 @@
 272;White Sugar;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Fun Factory Sweet Shoppe Blueberry Popcorn;https://funfactorysweets.com/products/blueberry;-;ok;
 273;Wildflower Honey;;;;;;;in ASR;Udi Gluten Free Au Naturel Granola;https://udisglutenfree.com/products/gluten-free-au-naturel-granola/;-;not on their website;https://www.hannaford.com/mobileProduct/Wildflower-Honey-Ham/843656.uts
 274;Yellow Sugar;;;;X;;;;Culinary Tours Szechuan Style Peanut Sauce;http://culinarytoursfoods.com/product/szechwan-sauce-marinade-peanuts/;-;;http://culinarytoursfoods.com/product/szechwan-sauce-marinade-peanuts/
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
