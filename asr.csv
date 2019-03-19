@@ -1,288 +1,242 @@
-;Name of Added Sugar;FDA;USDA;AHA;UCSF;HSPH;Popkin;other;Product Name;URL;history;note;MonstersFamily
-1;Agave Nectar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Panera Agave Lemonade;https://www.panerabread.com/en-us/menu-categories/drinks.html#agave-lemonade;-;;Other Monsters
-2;Agave Syrup;;;;X;X;;in ASR;Starbucks Lemon Chiffon Yogurt;https://www.starbucks.com/menu/food/yogurt-and-fruit/lemon-chiffon-yogurt?foodZone=9999;-;;Syrup Monsters
-3;Anhydrous Dextrose;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;;;;in ASR;Starbucks Chocolate Croissant;https://www.starbucks.com/menu/food/bakery/chocolate-croissant-lb;-;;OSE Monsters
-4;Apple Juice Concentrate;;;;;;;in ASR;Clif Blueberry Crisp Bar;https://shop.clifbar.com/CLIF-Bar-Blueberry-Crisp/p/CLIF-102607&c=ClifBar@ClifBar@Bars;-;;Concentrate Monsters
-5;Barbados Molasses;;;;;;;in ASR;Alien Fresh Filet Mignon Jerky - Bbq On The Moon;https://www.alienfreshjerky.com/products/filet-mignon-jerky-bbq-on-the-moon-3-oz?variant=117061419009;-;;Other Monsters
-6;Barley Malt;;;;X;;;in ASR;Sunbelt Bakery Chocolate Chip Granola Bar;https://www.sunbeltbakery.com/119;-;;Other Monsters
-7;Barley Malt Extract;;;;;;;in ASR;Clif Bar Chocolate Chip;http://www.clifbar.com/products/clif/clif-bar;-;;Other Monsters
-8;Barley Malt Syrup;;;;X;;;in ASR;Starbucks Fresh Blueberries And Honey Greek Yogurt Parfait;https://www.starbucks.com/menu/food/yogurt-and-fruit/fresh-blueberries-and-honey-greek-yogurt-parfait?foodZone=9999;-;;Syrup Monsters
-9;Beet Juice Concentrate;;;;;;;in ASR;Yoplait Cherry Orchard;https://www.yoplait.com/product/regular-original-cherry-orchard;-;;Concentrate Monsters
-10;Beet Sugar;;;;X;;;in ASR;Nutella;https://www.nutella.com/en/us/nutella-sugar;-;;Sugar Monsters
-11;Beet Syrup;;;;;;;in ASR;Clif Builder's Chocolate Mint;https://www.clifbar.com/products/clif/builder-s;-;;Syrup Monsters
-12;Black Currant Juice Concentrate;;;;;;;in ASR;Yogurtland Black Currant Berry Tart Yogurt;https://www.yogurt-land.com/flavors/view/3805/black-currant-berry-tart;-;;Concentrate Monsters
-13;Blackberry Juice Concentrate;;;;;;;in ASR;Lindt Blackberry With Acai Excellence Bar;https://www.lindtusa.com/blackberry-with-acai-excellence-bar-e000486;-;;Concentrate Monsters
-14;Blackcurrant Juice Concentrate;;;;;;;;Nestlé Ceregrow;https://www.nestle.in/brands/mpn/ceregrow/ingredients;found from BC meeting;new family member to integrate on app;Concentrate Monsters
-15;Blackstrap Molasses;;;;;;;in ASR;Whole Foods Gluten-free Molasses Ginger Cookies;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;-;;Other Monsters
-16;Blood Orange Juice Concentrate;;;;;;;in ASR;Noosa Blood Orange Yogurt;https://www.noosayoghurt.com/product/blood-orange/;-;;Concentrate Monsters
-17;Blueberry Juice Concentrate;;;;;;;in ASR;Oakhurst Wild Blueberry Milk;https://www.oakhurstdairy.com/product/flavored-milk-products/wild-blueberry-milk/;-;;Concentrate Monsters
-18;Boysenberry Juice Concentrate;;;;;;;in ASR;Edy's Sherbet Berry Rainbow;https://www.edys.com/products/edys-classics/berry-rainbow/edys-classics-sherbet/;-;;Concentrate Monsters
-19;Brown Cane Sugar;;;;;;;in ASR;Tate's Chocolate Chip Cookies;https://www.tatesbakeshop.com/Ingredients.pdf;-;;Sugar Monsters
-20;Brown Rice Syrup;;;;;;X;in ASR;Kashi Golean Honey Almond Flax Crunch Cereal;https://www.kashi.com/our-foods/cold-cereal/kashi-golean-crunch-honey-almond-flax-cereal;-;;Syrup Monsters
-21;Brown Rice Syrup Solids;;;;;;;in ASR;Mccormick Good Morning Brown Sugar Vanilla Breakfast Seasoning;https://www.mccormick.com/spices-and-flavors/breakfast/breakfast-seasonings/good-morning-brown-sugar-vanilla-seasoning;-;;Syrup Monsters
-22;Brown Sugar;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Stubb's Stick Sweet Bar-b-q Sauce;http://www.stubbsbbq.com/product/sticky-sweet/?utm_source=google&utm_medium=cpc&utm_term=sweet%20bbq%20sauce&utm_content=stubbs&utm_campaign=stubbs%7Cfy17%7Cggl%7Cnb%7Cproducts%7Cbbq-sauce%7Cbroad&gclid=Cj0KCQjw45_bBRD_ARIsAJ6wUXS2v9xsHOqpvNhFLCM1CZQMkvTzC5kYmansS5pj0pX84dWo2vfDAPUaAnFyEALw_wcB;-;;Sugar Monsters
-23;Brown Sugar Syrup;;;;;;;in ASR;Fiber One Cereal Honey Clusters;https://www.generalmills.com/en/Brands/Cereals/fiber-one/brand-product-list;-;https://www.generalmills.com/~/media/Images/Brands/Nutritional_Images/Big_G/Fiber_One_Honey_Clusters.jpg;Syrup Monsters
-24;Cane Crystals;;;;;X;;in ASR;Earthsweet Chewables Vitamin B6, B12 & Folic Acid Tablets;http://bluebonnetnutrition.com/product/74/EarthSweet%AE_Chewables_Vitamin_B%3Csub%3E6%3C-sub%3E%2C_B%3Csub%3E12%3C-sub%3E_%26_Folic_Acid_Tablets;-;;Cane Monsters
-25;Cane Juice;;;;X;;;in ASR;Whole Foods Madagascar Vanilla Wafers;https://www.wholefoodsmarket.com/products/magagascar-vanilla-wafers;-;;Cane Monsters
-26;Cane Juice Crystals;;;;X;;;in ASR;Eggcellent Molasses Bacon Seasonings;https://www.eggcellentseasonings.com/product/molasses-bacon/?add-to-cart=291;-;;Cane Monsters
-27;Cane Molasses;;;;;;;in ASR;Among Friends Shane's Molasses Ginger Cookie Mix;http://amongfriendsbakingmixes.com/shanes-5/;-;;Cane Monsters
-28;Cane Refinery Syrup;;;;;;;in ASR;Whataburger Grilled Chicken Sandwich;http://whataburger.com/food/item/grilled-chicken-sandwich-;-;;Syrup Monsters
-29;Cane Sugar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Starbucks Smoked Mozarella & Roasted Pepper Sandwich;https://www.starbucks.com/menu/food/mercato/smoked-mozzarella-roasted-peppers;-;;Sugar Monsters
-30;Cane Syrup;;;;X;;;in ASR;Udis Gluten Free Cinnamon Raisin Bagel;https://udisglutenfree.com/products/cinnamon-raisin-bagel/;-;;Syrup Monsters
-31;Caramelized Pear Juice Concentrate;;;;;;;in ASR;Bakery On Main Extreme Nut & Fruit Granola;https://bakeryonmain.com/shop/extreme-nut-fruit-granola/;-;;Concentrate Monsters
-32;Caramelized Sugar;;;;;;;in ASR;Gravymaster;http://www.gravymaster.com/nutritional-information/;-;;Sugar Monsters
-33;Caramelized Sugar Syrup;;;;;;;in ASR;Sahale Snacks Honey Almonds Glazed Mix;http://www.sahalesnacks.com/products/honey-almonds-glazed-mix;-;;Syrup Monsters
-34;Carrot Juice Concentrate;;;;;;;in ASR;V8® Fruit & Vegetable Blends Carrot Mango;https://www.campbells.com/v8/v8-fruit-and-vegetable-blends/carrot-mango/;-;;Concentrate Monsters
-35;Cherry Juice Concentrate;;;;;;X;in ASR;Chobani Black Cherry On The Bottom Yogurt;https://www.chobani.com/products/greek/fruit-on-the-bottom/black-cherry/;-;;Concentrate Monsters
-36;Clover Honey;;;;;;;in ASR;Tears Of Joy Kent's Sauce;https://www.tearsofjoysauces.com/products/kents-sauce;-;;Other Monsters
-37;Coconut Blossom Sugar;;;;;;;in ASR;Dream Pops Chocolate Lion;https://dreampops.com/collections/all/products/chocolate-lion;-;;Sugar Monsters
-38;Coconut Nectar;;;;;;;in ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;-;;Other Monsters
-39;Coconut Palm Nectar;;;;;;;in ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;new family member to integrate on app;Other Monsters
-40;Coconut Palm Sugar;;;;X;;;in ASR;Fage Crossovers Maple Syrup with Granola;https://usa.fage/yogurts/fage-crossovers#maple-syrup-granola;-;;Sugar Monsters
-41;Coconut Sugar;;;;X;;;in ASR;Miracle Noodle Ready-to-Eat Spaghetti with Tomato Sauce;https://miraclenoodle.com/products/miracle-noodle-ready-to-eat-spaghetti-with-tomato-sauce;-;;Sugar Monsters
-42;Coconut Sugar Crystals;;;;;;;in ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;-;;Sugar Monsters
-43;Coconut Syrup;;;;;;;in ASR;B&g Foods Blueberry Cranberry Chia Bar;https://nutritiondatalist.com/product/blueberry-cranberry-chia-bar-upc-819944013164;base on organic on ASR;change source;Sugar Monsters
-44;Confectioners' Sugar;;;;X;;;in ASR;Whole Foods Gluten-free Vanilla Cupcakes;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;-;;Syrup Monsters
-45;Corn Barley Malt Syrup;;;;;;;in ASR;Country Life Natural Foods Cashwe Date Delight Granola;https://www.clnf.org/cashew-date-delight-3;-;;Dextrin Monsters
-46;Corn Dextrin;;;;;;;in ASR;Swiss Miss Sensible Sweets Light Hot Cocoa;https://www.keurig.com/medias/sensible-sweets-swiss-miss-nutrional-info.jpg?context=bWFzdGVyfG51dHJpdGlvbmFsLWluZm9ybWF0aW9ufDM4NjU3NXxpbWFnZS9qcGVnfG51dHJpdGlvbmFsLWluZm9ybWF0aW9uL2gxYy9oMzAvMjgzMTQzNzYzMzk0ODYuanBnfDNmNTY3MGFlZmJkZDE5MWU1MDljM2UxMWUwMWRiNmI1OTY5ZDZjYTFlNWVhNDJkYWI2NzE2YWQyZTJlYmM3N2U;-;Not sure;Dextrin Monsters
-47;Corn Maltodextrin;;;;;;;in ASR;Ensure Plus Milk Chocolate Nutrition Shake;https://ensure.com/nutrition-products/ensure-plus#milk-chocolate;-;;Other Monsters
-48;Corn Sweetener;X;X;X;X;X;;in ASR;Blue Pacific Grill Thai Peanut Sauce;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;-;;Syrup Monsters
-49;Corn Syrup;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Starbucks Almond Butter Strawberries & Jam Sandwich;https://www.starbucks.com/menu/food/mercato/almond-butter-strawberry-jam;-;;Syrup Monsters
-50;Corn Syrup Butter;;;;;;;in ASR;Fun Factory Sweet Shoppe Blueberry Popcorn;https://funfactorysweets.com/products/blueberry;-;;Syrup Monsters
-51;Corn Syrup Solids;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;X;;;in ASR;Quaker Chewy Granola Bars;http://www.quakeroats.com/products/oat-snacks/chewy-granola/chocolate-chip.aspx;-;;Concentrate Monsters
-52;Cranberry Juice Concentrate;;;;;;X;in ASR;Brookside Dark Chocoalte Fruit Flavored Centers Acai And Blueberry Flavors;https://www.brooksidechocolate.com/en_us/products/blueberry-acai.html;-;new family member to integrate on app;Concentrate Monsters
-53;Crystalline Fructose;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Endura Energy And Rehydration Formula;https://www.metagenics.com/mas_assets/theme/metagenics/pdf/MET2170_Metagenics_Product_Catalog_2016.pdf;-;;OSE Monsters
-54;Dark Brown Cane Sugar;;;;;;;in ASR;Tefftations Gluten Free Cookies Screamin' Chocolate Chip And Walnut;http://www.bellafinefoods.com/gluten-free-cookie-screamin-chocolate-chip-and-walnut-tefftations/;-;;Sugar Monsters
-55;Dark Brown Sugar;;;;;;;in ASR;Fleurir Chocolates Cashew Toffee With Golden Flaxseed;http://www.fleurirchocolates.com/ingredients/;-;;Sugar Monsters
-56;Date Crystals;;;;;;;in ASR;Shields' Famous Date Shake;http://www.shieldsdategarden.com/Images/lunch-menu-summer2017.pdf;-;Weird source;Other Monsters
-57;Date Juice Concentrate;;;;;;;in ASR;Pascha Make Me Smile! Chocolate Fruit Spread;https://paschachocolate.com/collections/spread/products/new-improved-taste-make-me-smile-chocolate-fruit-spread;-;;Concentrate Monsters
-58;Date Nectar;;;;;;;in ASR;Rebel Kitchen Coffee Mylk;https://rebel-kitchen.com/products/big-rebels/;-;;Other Monsters
-59;Date Syrup;;;;;;;in ASR;4th & Heart Original Recipe Chocti Chocolate Chee Spread;https://fourthandheart.com/product/original-recipe-chocti/;-;;Syrup Monsters
-60;Decorative Sugars;;;;;;;in ASR;Lucy's Holiday Sugars Cookies;http://www.westminstercrackers.com/holiday-sugar-cookies?page_id=42;-;;Sugar Monsters
-61;Dehydrated Cane Juice;;;;X;;;in ASR;Hadley Fruit Orchards Natural Juice Sweetened Mangos;https://www.hadleyfruitorchards.com/product/natural-juice-sweetened-mangos-6oz;-;;Cane Monsters
-62;Dehydrated Cane Sugar;;;;;;;in ASR;Chatfield's White Chocolate Chips;https://www.chatfieldsbrand.com/product/white-chocolate-chips;-;;Sugar Monsters
-63;Demerara Sugar;;;;X;;;in ASR;Omaha Steaks Sweet Smoky Applewood Rub;https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=5706&IID=2652;-;;Sugar Monsters
-64;Dextrin;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;365 Everyday Value Tanoori Naan Roasted Garlic;https://products.wholefoodsmarket.com/product/365-everyday-value-365-everyday-value-tandoori-naan-roasted-garlic-4-each-be62dd;-;;Dextrin Monsters
-65;Dextrose;X;X;X;X;X;;in ASR;Nature Valley Peanut Butter Protein Granola;https://www.naturevalley.com/product/peanut-butter-granola/;-;;OSE Monsters
-66;Dextrose Anhydrous Glucose;;;;;;;in ASR;House Foods Vermont Curry Mild;https://housefoods-group.com/products/en/catalog/vmt/mid.html;-;;OSE Monsters
-67;Dextrose Sugar;;;;;;;in ASR;Weightwatchers Toffee Peanut Mini Bar;https://www.weightwatchers.com/images/1033/dynamic/GCMSImages/Snacksmore_MiniBars_LearnMore.pdf;-;;OSE Monsters
-68;Diastatic Malt;;;;;;;in ASR;Prager Brothers Croissant;http://www.pragerbrothers.com/ingredients/;-;;Other Monsters
-69;Diastatic Malt Powder;;;;;;;in ASR;Wendel's Rustic Pan Rye Bread;https://nutritiondatalist.com/product/rustic-pan-rye-bread-upc-857434002120;-;new family member to integrate on app;Other Monsters
-70;Dried Brown Rice Syrup;;;;;;X;in ASR;Kashi Chewy Granola Bars, Peanut Peanut Butter;https://www.kashi.com/our-foods/bars/kashi-chewy-granola-bars-peanut-peanut-butter;Based on brown rice syrup;new family member to integrate on app;Syrup Monsters
-71;Dried Cane Sugar;;;;X;X;;in ASR;Enjoy Life Classic Chocolate Brownie Mix;https://shop.enjoylifefoods.com/Brownie-Mix/p/ENJ-10473&c=EnjoyLife@BakingProducts;Based on cane sugar;new family member to integrate on app;Sugar Monsters
-72;Dried Cane Syrup;X;X;X;X;X;;in ASR;Kashi Golean Honey Almond Flax Crunch Cereal;https://www.kashi.com/our-foods/cold-cereal/kashi-golean-crunch-honey-almond-flax-cereal;Based on cane syrup;;Syrup Monsters
-73;Dried Cherry Juice Concentrate;;;;;;X;in ASR;Clif Bar Tart Cherry Berry Flavor;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;Based on cherry juice concentrate;new family member to integrate on app;Concentrate Monsters
-74;Dried Corn Syrup;X;X;X;X;X;;in ASR;Fruit Gushers Flavor Mixers;http://www.generalmills.com/en/Brands/Snacks/fruit-snacks/brand-product-list;Based on corn syrup;;Syrup Monsters
-75;Dried Cranberry Juice Concentrate;;;;;;X;in ASR;Clif Bar Tart Cherry Berry Flavor;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;Based on Cranberry juice concentrate;new family member to integrate on app;Concentrate Monsters
-76;Dried Glucose Syrup;;;;;;;in ASR;Tim Hortons Sundried Tomato Asiago Parm Bagel;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;;OSE Monsters
-77;Ethyl Maltol;;;;;X;;in ASR;Premio Chicken Breakfast Sausage With Apple & Maple;https://www.premiofoods.com/product/chicken-breakfast-sausage-wapple-maple/;-;wrong source;Other Monsters
-78;Evaporated Cane Crystals;;;;;;;in ASR;Tanka Sticks Slow Smoked Original;http://www.tankabar.com/cgi-bin/nanf/public/viewStory.cvw?sessionid=497c4676af9ce8358b4f29fc472e4241cdb92ddae837&storyid=134975&sectionname=Nutritionals&commentbox=Y;-;;Cane Monsters
-79;Evaporated Cane Juice;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Udi's Chocolate Chia Muffin Tops;https://udisglutenfree.com/products/chocolate-chia-muffin-tops/;-;product discontinued ;Cane Monsters
-80;Evaporated Cane Juice Invert Syrup;;;;;;;in ASR;Whole Foods Back To Nature Dark Chocolate And Oats Granola Cookie;https://www.backtonaturefoods.com/what-we-make/cookies/dark-chocolate-oats-granola-cookies/;-;link changed;Syrup Monsters
-81;Evaporated Cane Juice Syrup;;;;;;;in ASR;Great Value Vanilla Almondmilk;https://www.walmart.com/ip/Great-Value-Vanilla-Almond-Milk-64-oz/46491746;based on organic evaporated cane juice syrup;new family member to integrate on app;Syrup Monsters
-82;Evaporated Cane Sugar;;;;X;X;;in ASR;Popcorners Kettle Corn;https://www.popcorners.com/pop-corners/kettle-corn-pop-corners;Based on cane sugar;product discontinued ;Sugar Monsters
-83;Evaporated Cane Syrup;X;X;X;X;X;;in ASR;Weight Watchers Smart Made White Wine Chicken And Couscous;https://www.eatyourbest.com/smartmade/product/00025800000234;Based on cane syrup;link changed;Syrup Monsters
-84;Evaporated Coconut Palm Nectar;;;;;;;in ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;base on organic on ASR;new family member to integrate on app;Other Monsters
-85;Fair Trade Unrefined Cane Sugar;;;;;;;in ASR;Tabl Pomegranate Ketçhup;https://www.tabl.com/aphrodites/pomegranate-ket%C3%A7hup;base on organic on ASR;new family member to integrate on app;Sugar Monsters
-86;Fondant Sugar;;;;;;;in ASR;Dan's Chocolates Classic Assorted;https://www.danschocolates.com/ingredients;-;;Other Monsters
-87;Fructan;;;;;;;in ASR;Barbara's Better Than Granola Dark Chocoalte Cranberry Granola;http://shop.barbaras.com/Dark-Chocolate-Cranberry-Better-Granola/p/BAR-300152&c=BarbarasBakery@Cereals@Granola?displayType=FullSite#nutrition_display;-;;Other Monsters
-88;Fructooligosaccharides;;;;;;;in ASR;Similac Organic Baby Formula;https://similac.com/baby-formula/similac-advance-organic;-;;OSE Monsters
-89;Fructose;X;X;X;X;X;;in ASR;Nature Valley Protein Bar Peant Butter Chocolate Chip;https://www.naturevalley.com/product/gluten-free-protein-bars-peanut-butter-dark-chocolate/;-;;Other Monsters
-90;Fruit Juice Concentrate;X;;X;X;X;;in ASR;Amande Cultured Almondmilk Plain Yogurt;http://www.amandeyogurt.com/flavors.html;-;;Concentrate Monsters
-91;Galactooligosaccharides;;;;;;;in ASR;Similac Go & Grow Non-gmo Toddler Drink;https://similac.com/toddler-formula/go-grow-non-gmo;-;;Other Monsters
-92;Glucose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Tim Horton's Lemon Blueberry Greek Yogurt Muffin;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;link changed;OSE Monsters
-93;Glucose Fructose Syrup;;;;;;;in ASR;Lindt Excellence Blackberry Acai 3.5oz;https://www.lindtusa.com/wcsstore/LindtCatalogAssetStore/Attachment/products/nutritional/nutritional-information-SKU-E000486.pdf;-;;OSE Monsters
-94;Glucose Solids;;;;;;;in ASR;Tim Horton's Cinnamon Rolls;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;;OSE Monsters
-95;Glucose Syrup;;;;;;;in ASR;Roland Balsamic Glaze with Balsamic Vinegar of Modena;https://app.salsify.com/catalogs/8d479ec2-aefa-4432-80ef-858b9b084952/products/70430;-;;OSE Monsters
-96;Glucose Syrup Solids;;;;;;;in ASR;The Curious Creamery Vanilla Ice Cream Mix ;https://shop.thecuriouscreamery.com/vanilla-ice-cream-mix-6-pouch-pack/;-;wrong item;OSE Monsters
-97;Goji Berry Juice Concentrate;;;;;;;in ASR;Brookside Chocolate Fruit Flavored Centers;https://www.brooksidechocolate.com/en_us/products/goji-raspberry.html;-;;Concentrate Monsters
-98;Golden Syrup;;;;X;;;in ASR;Lesley Stowe Raincoast Crisps;http://www.lesleystowe.com/product-line/raincoast-crisps/;-;;Syrup Monsters
-99;Grape Juice Concentrate;;;;;;X;in ASR;BodyBuilding Cake Bites High Protein Snack ;https://www.bodybuilding.com/store/optimum-nutrition/cake-bites.html?mcid=GGL_US_Products_Products_Optimum_Cake_Bites&bbkwid=298107199608&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6fXnkkhv6hTgJk2UE-4Dt_V8aWEU_yqCT7eKhyl5BhH5dApvZ9VIDxoC_dQQAvD_BwE;-;wrong source;Concentrate Monsters
-100;Grape Sugar;;;;;;;in ASR;Olbas Wellness Tea;http://www.olbas.com/olbas-remedies/olbas-herbal-tea/;-;;Sugar Monsters
-101;Grapefruit Juice Concentrate;;;;;;;in ASR;BodyBuilding Cake Bites High-Protein Snack ;https://www.bodybuilding.com/store/optimum-nutrition/cake-bites.html?mcid=GGL_US_Products_Products_Optimum_Cake_Bites&bbkwid=298107199608&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6fXnkkhv6hTgJk2UE-4Dt_V8aWEU_yqCT7eKhyl5BhH5dApvZ9VIDxoC_dQQAvD_BwE;-;wrong source;Concentrate Monsters
-102;Guava Juice Concentrate;;;;;;;in ASR;Nestlé Vitality Passion Fruit Orange Guava Frozen Juice Concentrate;https://www.nestleprofessional.us/nestle-vitality/nestle-vitality-passion-fruit-orange-guava-cocktail-10-frozen-concentrate-6-x-64-oz;-;;Concentrate Monsters
-103;High Fructose Corn Syrup;X;X;X;;X;;in ASR;V8 Splash® Berry Blend;https://www.campbellsfoodservice.com/product/v8-splash-berry-blend-3/;-;;OSE Monsters
-104;High Maltose Corn Syrup Solids;;;;;;;in ASR;The Blue Pacific Grill Mango Habanero;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;-;?;OSE Monsters
-105;Honey;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Honey Nut Cheerios;http://www.cheerios.com/en/products/Honey%20Nut%20Cheerios.aspx;-;;Other Monsters
-106;Honey Powder;;;;;;;in ASR;TGI Friday's Chicken Wings Honey Bbq;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;-;;Other Monsters
-107;Honeydew Juice Concentrate;;;;;;;in ASR;Tazo Green Tea Matcha Latte;https://www.tazo.com/green-tea/green-tea-matcha-latte;-;;Concentrate Monsters
-108;Icing Sugar;;;;X;;;in ASR;Trader Joes Peaches & Cream Tarte;https://www.traderjoes.com/digin/post/peaches--cream-tarte;-;;Sugar Monsters
-109;Invert Cane Sugar;;;;;;;in ASR;Pringles Sour Cream And Onion Chips;https://www.pringles.com/us/products/favorites/sour-cream-onion.html#nutrition-modal;-;wrong source;Sugar Monsters
-110;Invert Cane Syrup;;;;;;;in ASR;Boomchickapop Salted Caramel Popcorn;https://boomchickapop.com/our-products/;-this sugar not in this product;;Syrup Monsters
-111;Invert Sugar;X;X;X;X;X;;in ASR;Pringles® Sour Cream & Onion;https://www.pringles.com/us/products/favorites/sour-cream-onion.html#nutrition-modal;-;;Sugar Monsters
-112;Invert Sugar Cane Syrup;;;;;;;in ASR;Boni Selection Bio Gingerbread Sliced;https://www.mangebelge.com/en/biscuits-gaufres/315-boni-selection-bio-gingerbread-sliced-300-gr-5400141104424.html;base on organic on ASR;new family member to integrate on app;Syrup Monsters
-113;Invert Syrup;;;;;;;in ASR;Chuckanut Cheesecake Company Fruit Cake;https://nutritiondatalist.com/product/fruit-cake-upc-603812580601;base on organic on ASR;new family member to integrate on app;Syrup Monsters
-114;Isomalto-oligosaccharide;;;;;;;in ASR;Em-Power Peanut Butter Paradise Bars;http://em-powerbars.com/nutrition-facts/;-;;Other Monsters
-115;Kiwi Juice Concentrate;;;;;;;in ASR;Snapple Kiwi Strawberry;https://www.snapple.com/products/snapple-kiwi-strawberry-juice;-;;Concentrate Monsters
-116;Lemon Juice Concentrate;;;;;;;Perfact;Mayonnaise Squeeze Bottle;https://www.target.com/p/mayonnaise-squeeze-bottle-22oz-market-pantry-153/-/A-13007248;;new family member to integrate on app;Concentrate Monsters
-117;Light Brown Cane Sugar;;;;;;;in ASR;Truemadefoods Pitmaster BBQ Sauce;https://www.truemadefoods.com/shop/sauces/pitmaster-bbq-sauce-original;-;wrong source;Sugar Monsters
-118;Light Brown Sugar;;;;;;;in ASR;Oatmega Peanut Butter;http://shop.oatmega.com/Peanut-Butter/p/OAT-020202&c=Oatmega@Cookies#;-;;Sugar Monsters
-119;Liquid Sugar;;;;;;;in ASR;Wegmans Pink Grapefruit Sorbet;https://www.wegmans.com/products/frozen-foods/ice-cream-and-frozen-yogurt/ice-cream/pink-grapefruit-sorbet.html;-;;Sugar Monsters
-120;Loganberry Juice Concentrate;;;;;;;in ASR;Crystal Beach Amusement Park Original Loganberry Drink 2 Liters;https://www.walmart.com/ip/Crystal-Beach-Amusement-Park-Original-Loganberry-Drink-2-Liters/37321725;removed https://store.citymade.com/crystal-beach-loganberry-20oz-bottle.html;;Concentrate Monsters
-121;Malt Extract;;;;;;;in ASR;Fiber One Oats & Chocolate;https://www.fiberone.com/products/bars/oats-chocolate;-;;Other Monsters
-122;Malt Syrup;;X;;X;X;;in ASR;Fiber One Honey Clusters;https://www.fiberone.com/products/cereals/honey-clusters;-;;Syrup Monsters
-123;Maltodextrin;;;;X;;;in ASR;Nissin Cup Noodles®;http://nissinfoods.com/products/cup-noodles;-;;Dextrin Monsters
-124;Maltol;;;X;X;X;;in ASR;Mccormick Culinary® Lemon 'n Herb Seasoning;http://www.mccormickforchefs.com/products/mccormick-culinary/lemon-n-herb-seasoning;-;it is flavor enhancer, so...?;Other Monsters
-125;Maltose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;A-sha Seaweed Snack - Original Flavor;http://www.ashaseaweedsnacks.com/the-original-2/;-;;OSE Monsters
-126;Mango Juice Concentrate;;;;;;;in ASR;Bai Malawi Mango;http://www.drinkbai.com/products/malawi-mango;-;;Concentrate Monsters
-127;Maple Sugar;;;;;;;in ASR;Base Culture's Paleo Almond Butter Gingerbread;https://baseculture.com/collections/almond-butters/products/almond-butter-gingerbread?variant=42899641480;-;;Sugar Monsters
-128;Maple Syrup;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Nature Valley Maple Brown Sugar Big And Crunchy Granola;https://www.naturevalley.com/product/maple-brown-sugar-granola-crunch/;-;;Syrup Monsters
-129;Melon Juice Concentrate;;;;;;;in ASR;Hi-Chew Candy;https://www.hi-chew.com/nutrition-information/#grabBag-nutrition;-;;Concentrate Monsters
-130;Milled Cane Sugar;;;;;;;in ASR;Starbucks Fresh Blueberries and Honey Greek Yogurt Parfait;https://www.starbucks.com/menu/food/yogurt-and-fruit/fresh-blueberries-and-honey-greek-yogurt-parfait?foodZone=9999;-;;Sugar Monsters
-131;Molasses;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;ROSEMARY GRILLED BEEF AND VEGETABLES;https://www.eatyourbest.com/smartmade/product/00025800000326;-;;Other Monsters
-132;Molasses Granules;;;;;;;x;Darcy’s Delish Old Fashioned Chocolate Chip Cookie Mix;http://amongfriendsbakingmixes.com/darcys-delish-old-fashioned-chocolate-chip-cookie-mix/;-;new family member to integrate on app;Other Monsters
-133;Molasses Powder;;;;;;;in ASR;Maple Cinnamon French Toast Bagel;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;-;;Other Monsters
-134;Monk Fruit Juice Concentrate;;;;;;;;Fairlife® Chocolate With Dha Ultra Filtered Milks;https://fairlife.com/ultra-filtered-milks/fairlife-chocolate-with-dha/;;new family member to integrate on app;Concentrate Monsters
-135;Monk Juice Concentrate;;;;;;;;Fairlife Yup!® Very Strawberry Low-Fat Milk;https://fairlife.com/yup/yup-very-strawberry/;;new family member to integrate on app;Concentrate Monsters
-136;Muscovado;;;;X;;;in ASR;Chinese Doughnuts Muscovado Sugar Flavor Mi Ma Hua;https://www.amazon.com/OUZ123-Chinese-Doughnuts-Muscovado-Flavor/dp/B07LF1CLL8/ref=sr_1_78?keywords=Muscovado&qid=1551822889&s=gateway&sr=8-78&th=1;removed https://www.zotterusa.com/labooko-pure-chocolate/225-cacao-nature-75-with-muscovado-sugar-crackers-9006403036203.html;;Other Monsters
-137;Non-gmo Honey;;;;;;;in ASR;Barbara's Bakery Better Granola, Dark Chocolate Cranberry;http://shop.barbaras.com/Dark-Chocolate-Cranberry-Better-Granola/p/BAR-300152&c=BarbarasBakery@Cereals@Granola#;-;;Other Monsters
-138;Oat Syrup Solids;;;;;;;in ASR;Back To Nature Apple Cinnamon Granola Clusters;http://www.backtonaturefoods.com/what-we-make/granola/granola-clusters/apple-cinnamon-granola-clusters/;-;;Syrup Monsters
-139;Orange Juice Concentrate;;;;;;;in ASR;Bai Costa Rica Clementine Drink;http://www.drinkbai.com/products/costa-rica-clementine;-;;Concentrate Monsters
-140;Organic Agave;;;;;;;in ASR;Wegmans Sushi ;https://www.wegmans.com/products/sushi/family-pack/sushi/sushi-party-pack-family-pack.html;Based on agave nectar;;Other Monsters
-141;Organic Agave Nectar;;;;X;;;in ASR;The Gluten Free Bar Oatmeal Raisin Bars;https://theglutenfreebar.com/products/the-gfb-oatmeal-raisin-protein-bars-case-of-12?variant=395090025&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6eSX81HgJqEWFSyJ5d6t0PSc7RjAZ14IcI78DRhdrw_62RljBMHIEBoCNZgQAvD_BwE;-;;Other Monsters
-142;Organic Apple Juice Concentrate;;;;;;;in ASR;Barbaras Honest Os Honey Nut;http://barbaras.com/products/barbaras-classics/honest-os-honey-nut/;-;;Concentrate Monsters
-143;Organic Barley Malt Syrup;;;;X;;;in ASR;Wegmans Granola, Organic, Coconut & Baobab;https://www.wegmans.com/products/grocery-food/breakfast/granola/granola-organic-coconut-baobab.html;Based on barley malt syrup;;Syrup Monsters
-144;Organic Blueberry Juice Concentrate;;;;;;;in ASR;Stonyfield Kids Tubes Of Strawberry Lemonade;https://www.stonyfield.com/products/baby-kids/kids/tubes-blueberry-lemonade;-;;Concentrate Monsters
-145;Organic Brown Rice Syrup;;;;;;X;in ASR;Clif Chocolate Peanut Butter Flavor;https://www.clifbar.com/products/clif/builder-s/builders-chocolate-peanut-butter;Based on brown rice syrup;;Syrup Monsters
-146;Organic Brown Sugar;X;X;X;X;X;;in ASR;Annies Organic Brown Sugar Cinnamon Toaster Pastries;https://www.annies.com/products/cereal/organic-brown-sugar-cinnamon-toaster-pastries;Based on brown sugar;;Sugar Monsters
-147;Organic Cane Crystals;;;;;X;;in ASR;Flying Bird Botanicals Cacao Especial;https://www.flyingbirdbotanicals.com/collections/organic-cacao/products/cacao-especial;Based on cane crystals;;Cane Monsters
-148;Organic Cane Sugar;;;;X;X;;in ASR;365 Everyday Value Organic Whole Wheat Pancakes;https://www.wholefoodsmarket.com/products/365-everyday-value-organic-whole-wheat-pancakes;Based on cane sugar;;Sugar Monsters
-149;Organic Cane Syrup;;;;X;;;in ASR;Clif Caramel Toffee With Sea Salt Flavor Bar;https://www.clifbar.com/products/clif/clif-bar;Based on cane syrup;;Syrup Monsters
-150;Organic Cherry Juice Concentrate;;;;;;X;in ASR;Clif Tart Cherry Berry Flavor Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;Based on cherry juice concentrate;;Concentrate Monsters
-151;Organic Coconut Blossom Nectar;;;;;;;in ASR;Simpletruth Coconut Aminos All Purpose Seasoning Sauce;https://www.simpletruth.com/products/coconut-aminos-all-purpose-seasoning-sauce/;-;new family member to integrate on app;Other Monsters
-152;Organic Coconut Nectar;;;;;;;in ASR;Rise Bar Lemon Cashew Protein Bar;https://risebar.com/collections/plant-protein-bars/products/lemon-cashew-protein-bars;-;was on ASR but not on this list, missed? or other reason?;Other Monsters
-153;Organic Coconut Palm Nectar;;;;X;;;in ASR;Mrdewies Caramel Almond Crunch;https://www.mrdewies.com/menu/;Based on coconut palm sugar;;Other Monsters
-154;Organic Coconut Palm Sugar;;;;X;;;in ASR;Purely Elizabeth Original Ancient Grain Granola bar;https://purelyelizabeth.com/product/original-ancient-grain-granola/;Based on coconut sugar;;Sugar Monsters
-155;Organic Coconut Sugar;;;;;;;in ASR;Grandyoats Gluten Free Coconut Fruit Granola;https://www.grandyoats.com/products/gluten-free-coconut-fruit-granola;-;;Sugar Monsters
-156;Organic Coconut Syrup;;X;;X;;;in ASR;Vermont Organics Organic Baby Formula;http://www.vermontorganicsformula.com/Organic-Baby-Formula.aspx;Based on corn syrup solids;;Syrup Monsters
-157;Organic Corn Syrup Solids;;;;;;;in ASR;Dr. Fuhrman's MatoZest;https://www.drfuhrman.com/shop/products/40/matozest-salt-free-seasoning;-;;Syrup Monsters
-158;Organic Date Sugar;;;;;;;in ASR;Date Lady Chocolate Spread;https://ilovedatelady.com/products/chocolate-spread;-;new family member to integrate on app;Sugar Monsters
-159;Organic Date Syrup;X;X;X;X;X;;in ASR;Spun Paradise Organic Cotton Candy Watermelon;https://www.spunparadise.com/organic/organic-watermelon;Based on dextrose;;OSE Monsters
-160;Organic Dextrose;;;;;;X;in ASR;Gomacro MarcoBar Ginger Lemon Flavor;https://www.gomacro.com/shop/thrive-bars/ginger-lemon/;Based on dried brown rice syrup;;Syrup Monsters
-161;Organic Dried Brown Rice Syrup;;;;;;;in ASR;Natures Bakery Organic Honey Oat And Blueberry Bars;https://naturesbakery.com/snack-products/organic-honey-oat-bars-blueberry;-;;Syrup Monsters
-162;Organic Dried Cane Sugar;;;;;;;in ASR;Clif Chocolate Mint Bar;http://www.clifbar.com/products/clif/builder-s;-;;Sugar Monsters
-163;Organic Dried Cane Syrup;;;;;;;in ASR;Clif Fruit Smoothie Filled Tart Cherry Berry Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;;Syrup Monsters
-164;Organic Dried Cherry Juice Concentrate;;;;;;;in ASR;Clif Fruit Smoothie Filled Tart Cherry Berry Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;;Concentrate Monsters
-165;Organic Dried Cranberry Juice Concentrate;;;;X;;;in ASR;GoPicnic Peanut Butter and Crackers;http://gopicnic.com/peanut-butter-crackers;Based on evaporated cane juice;;Concentrate Monsters
-166;Organic Evaporated Cane Juice;;;;;;;in ASR;Late July Dark Chocolate Covered Peppermint Sandwich Cookie;https://www.wholefoodsmarket.com/products/dark-chocolate-covered-peppermint-sandwich-cookie;-;;Cane Monsters
-167;Organic Evaporated Cane Juice Syrup;;;;;;;in ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;-;;Syrup Monsters
-168;Organic Evaporated Coconut Palm Nectar;;;;;;;in ASR;Organic Valley Grassmilk Vanilla Yogurt;https://www.organicvalley.coop/products/grassmilk-yogurt/grassmilk-yogurt-24-oz/vanilla-grassmilk-yogurt-24-oz/;-;;Other Monsters
-169;Organic Fair Trade Unrefined Cane Sugar;X;;X;X;X;;in ASR;Stonyfield Kids Low Fat Pouches Blueberry;https://www.stonyfield.com/products/yogurt/dairy-free/blueberry;Based on fruit juice concentrate;;Sugar Monsters
-170;Organic Fruit Juice Concentrate;;;;;;;;Clif Bar Blueberry Crisp;https://www.clifbar.com/products/clif/clif-bar/blueberry-crisp;-;was on ASR but not on this list, missed? or other reason?;Concentrate Monsters
-171;Organic Grape Juice Concentrate;;;;;;;in ASR;Bakery On Main's Organic Happy Granola Sprouted Maple Quinoa;https://bakeryonmain.com/shop/organic-happy-granola-sprouted-maple-quinoa/;-;;Concentrate Monsters
-172;Organic Honey;;;;;;;in ASR;Annie Gluten Free Double Chocolate Chip Granola Bars;https://www.annies.com/products/snacks/double-chocolate-chip-granola-bar;-;;Other Monsters
-173;Organic Invert Cane Sugar;X;X;X;X;X;;in ASR;Wholesome Organic Vanilla Frosting;http://shop.wholesomesweet.com/Organic-Vanilla-Frosting/p/WHSM-801335&c=Wholesome@Frosting;Based on invert sugar;;Sugar Monsters
-174;Organic Invert Cane Syrup;;;;;;;in ASR;Wholesome Organic Chocolate Frosting;http://shop.wholesomesweet.com/Organic-Chocolate-Frosting/p/WHSM-801311&c=Wholesome@Frosting;-;;Syrup Monsters
-175;Organic Invert Sugar;;;;;;;in ASR;Clif Bar Blueberry Crisp Bar;https://shop.clifbar.com/CLIF-Bar-Blueberry-Crisp/p/CLIF-102607&c=ClifBar@ClifBar@Bars;-;;Sugar Monsters
-176;Organic Invert Sugar Cane Syrup;;;;;;;in ASR;Newman's Own Chocolate Newman-o;https://www.newmansown.com/foods/chocolate-newman-os/;-;;Syrup Monsters
-177;Organic Invert Sugar Syrup;X;X;X;;;;in ASR;Earth's Best Organic Infant Formula;https://www.earthsbest.com/en/products/dairy-infant-formula-23-2oz/;Based on lactose;;Syrup Monsters
-178;Organic Invert Syrup;;;;;;;in ASR;Jackie Cookie Babies Gluten Free/Vegan Chocolate Chocolate Chip Cookies;https://www.jackiescookieconnection.com/ingredients;-;;Syrup Monsters
-179;Organic Lactose;;;;X;;;in ASR;Vermont Organic Infant Formula;http://www.vermontorganicsformula.com/Organic-Baby-Formula.aspx;Based on maltodextrin;;OSE Monsters
-180;Organic Light Brown Sugar;;;;;;;in ASR;Grandyoats Organic Coconut + Fruit Granola [Gluten Free];https://www.grandyoats.com/products/gluten-free-coconut-fruit-granola;-;;Sugar Monsters
-181;Organic Maltodextrin;;;;;;;in ASR;Wegmans Food You Feel Good About Granola, Organic, Coconut & Baobab;https://www.wegmans.com/products/grocery-food/breakfast/granola/granola-organic-coconut-baobab.html;-;;Dextrin Monsters
-182;Organic Maple Syrup;X;X;X;X;X;;in ASR;Dave Killer Bread 100% Whole Wheat;http://www.daveskillerbread.com/100-whole-wheat/;Based on molasses;;Syrup Monsters
-183;Organic Milled Cane Sugar;;;;;;;in ASR;St. Claire's Ginger Pastilles, Organic;https://www.azurestandard.com/shop/product/food/sweets-candies/mints/ginger/ginger-pastilles-organic/9632?package=SC058;removed https://stclaires.com/organic-breath-mints/premium-mint-tin.html;;Sugar Monsters
-184;Organic Molasses;;;;;;;in ASR;Pamela Mini Honey Grahams;http://www.pamelasproducts.com/products/graham-crackers-gluten-free/mini-honey-grahams-gluten-free/;-;;Other Monsters
-185;Organic Molasses Granules;;;;;;;in ASR;Nature Path Love Crunch Dark Chocolate Macaroon Granola Bars;https://www.naturespath.com/en-us/products/love-crunch/dark-chocolate-macaroon-granola-bars/;-;;Other Monsters
-186;Organic Oat Syrup Solids;;;;;;;in ASR;Woodstock Organic Bbq Sauce, Hickory;http://www.plummarket.com/store/woodstock-organic-hickory-bbq-sauce-18oz.html;-;;Syrup Monsters
-187;Organic Panela Sugar;;;;X;;;in ASR;Unreal Dark Chocolate Peanut Butter Cups;http://getunreal.com/;Based on powdered sugar;;Sugar Monsters
-188;Organic Pineapple Juice Concentrate;;;;;;;in ASR;Cascadian Farm Sweet & Salty Peanut Pretzel Granola Bars;https://www.cascadianfarm.com/product/sweet-salty-peanut-pretzel-chewy-granola-bar/;-;;Concentrate Monsters
-189;Organic Powdered Sugar;;;;;;;in ASR;Mountain Muesli Cherry Almond Cereal;https://www.mountainmuesli.com/cereal-1/cherry-almond;-;;Sugar Monsters
-190;Organic Raisin Juice Concentrate;;;;;;;in ASR;Bliss Nut-butters All Natural Peanut Butter;http://www.blissnutbutters.com/product/hazelnut-butter-bliss/;-;;Concentrate Monsters
-191;Organic Raw Dark Agave Syrup;;;;X;;;in ASR;Field Day Organic Cinnamon Flax Granola;https://www.fielddayproducts.com/product/organic-cinnamon-flax-granola-4256360373;Based on rice syrup;new family member to integrate on app;Syrup Monsters
-192;Organic Raw Honey;;;;;;;in ASR;Clif Bar Fruit Smoothie Filled Tart Cherry Berry;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;-;;Other Monsters
-193;Organic Rice Syrup;;;;;;;in ASR;Stonyfield Yokids Whole Milk Tubes Strawberry;https://www.stonyfield.com/products/baby-kids/kids/tubes-whole-milk-strawberry-banana;-;;Syrup Monsters
-194;Organic Rice Syrup Solids;;;X;;;;in ASR;Similac Organic Baby Formula;https://similac.com/baby-formula/similac-advance-organic;Based on sugar;;Syrup Monsters
-195;Organic Strawberry Juice Concentrate;;;;;;;in ASR;Andean Dream Quinoa Coconut Cookies;http://www.andeandream.com/quinoa-cookies.html;-;;Concentrate Monsters
-196;Organic Sugar;;;;;;;in ASR;Wholesome Organic Fruit Chews;http://shop.wholesomesweet.com/Wholesome-Organic-Fruit-Chews/p/WHSM-531423&c=Wholesome@Candy;-;;Sugar Monsters
-197;Organic Sugar Cane Syrup;;;;;;;in ASR;Sahale Snacks Honey Almonds Glazed Mix;https://www.sahalesnacks.com/products/honey-almonds-glazed-mix;-;;Syrup Monsters
-198;Organic Tapioca Maltodextrin;;;;;;;in ASR;Whole Foods Sunny Citrus Organic Bunny Fruit Snacks;https://www.wholefoodsmarket.com/products/sunny-citrus-organic-bunny-fruit-snacks;-;;Dextrin Monsters
-199;Organic Tapioca Syrup;;;;;;X;in ASR;Whole Foods Sunny Citrus Organic Bunny Fruit Snacks;https://www.wholefoodsmarket.com/products/sunny-citrus-organic-bunny-fruit-snacks;Based on white grape juice concentrate;;Syrup Monsters
-200;Organic Tapioca Syrup Solids;;;;;;;in ASR;Risebar Plant Protein Lemon Cashew Protein Bars;https://risebar.com/collections/plant-protein-bars/products/lemon-cashew-protein-bars;-;;Syrup Monsters
-201;Organic White Grape Juice Concentrate;;;;;;;in ASR;Clif Bar Blueberry Crisp;https://www.clifbar.com/products/clif/clif-bar/blueberry-crisp;-;;Concentrate Monsters
-202;Palm Sugar;;;;X;;;in ASR;Abc Sweet Soy Sauce;https://www.woolworths.com.au/shop/productdetails/720977/abc-sweet-soy-sauce;-;;Sugar Monsters
-203;Pancake Syrup;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;;;;;;Sauced Bbq Sauce;https://www.codecheck.info/essen/kochzutaten_gewuerze/gewuerze_kraeuter/gewuerze/ean_19962025419/id_2075876778/Sauced_BBQ_Sauce.pro;-;new family member to integrate on app;Syrup Monsters
-204;Panela;;;;;;;in ASR;Jiva Coffee Cubes Classic;https://jivacubes.com/product/classic-coffee-cubes/;-;;Other Monsters
-205;Passion Fruit Juice Concentrate;;;;;;;in ASR;Hawaii Own Pineapple Starfuit Juice;http://www.hawaiisown.com/site/products/pineapple-starfruit/;-;;Concentrate Monsters
-206;Peach Juice Concentrate;;;;;;;in ASR;Bai Antioxidant Infusion Panama Peach;https://www.drinkbai.com/products/panama-peach;-;;Concentrate Monsters
-207;Pear Juice Concentrate;;;;;;;in ASR;Kashi Cereal Bars, Ripe Strawberry;https://www.kashi.com/our-foods/bars/kashi-cereal-bars-ripe-strawberry;-;;Concentrate Monsters
-208;Pineapple Juice Concentrate;;;;;;;in ASR;Gerber 2nd Foods- Hawaiian Delight;https://www.gerber.com/gerber-2nd-foods-hawaiian-delight-juice-fruit-blend;-;;Concentrate Monsters
-209;Pineapple Syrup;;;;;;;in ASR;Special K Bar Dark Chocolate Pomegranate Chewy Snack Bar;http://www.specialk.com/en_US/products/special-k-snack-bars-dark-chocolate-pomegranet-product.html;-;;Syrup Monsters
-210;Pink Grapefruit Juice Concentrate;;;;;;;in ASR;Wegmans Pink Grapefruit Sorbet;https://www.wegmans.com/products/frozen-foods/ice-cream-and-frozen-yogurt/ice-cream/pink-grapefruit-sorbet.html;-;;Concentrate Monsters
-211;Plum Juice Concentrate;;;;;;;in ASR;Special K Dark Chocolate Pomegranate Chewy Snack Bar;http://www.specialk.com/en_US/products/special-k-snack-bars-dark-chocolate-pomegranet-product.html;-;;Concentrate Monsters
-212;Pomegranate Juice Concentrate;;;;;;;in ASR;Bai Antioxidant Infusion Ipanema Pomegranate;https://www.drinkbai.com/products/ipanema-pomegranate;-;;Concentrate Monsters
-213;Powdered Cane Sugar;;;;;;;in ASR;Deluscious Chocolate Decadence Cookies;https://www.delusciouscookies.com/articles/chocolate-decadence.htm;-;;Sugar Monsters
-214;Powdered Sugar;;;;X;;;in ASR;Whole Foods Gluten Free Vanilla Confetti Cake;https://www.instacart.com/whole-foods/products/245275-whole-foods-market-gluten-free-vanilla-confetti-cake-22-oz;-;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;Sugar Monsters
-215;Processed Honey;;;;;;;in ASR;House Foods Vermont Curry Sauce ;https://www.amazon.com/House-Foods-Vermont-Curry-8-1-Ounce/dp/B003V3E6XU;-;;Other Monsters
-216;Pure Cane Sugar;;;;;;;in ASR;Starbucks Almond Butter Strawberry & Jam Sandwich;https://www.starbucks.com/menu/food/mercato/almond-butter-strawberry-jam;-;;Sugar Monsters
-217;Pure Maple Syrup;;;;;;;in ASR;Michele's Granola Toasted Muesli;https://www.michelesgranola.com/products/toasted-muesli;-;;Syrup Monsters
-218;Pure White Honey;;;;;;;in ASR;Blue Pacific Grill Honey Garlic Soy Sauce;https://www.nutritionix.com/brand/the-blue-pacific-grill/products/ae49287057d6f8a97f5275c5;-;https://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;Other Monsters
-219;Raisin Juice Concentrate;;;;;;;in ASR;New Yorker Bagels Kettle Boiled Wheat Bagel;https://wholesale-bagels.newyorkerbagels.com/wp-content/uploads/2015/02/NYWB-Wheat-Everything-water-bagles.pdf;-;https://www.newyorkerbagels.com/pages/fresh-bagel-ingredients-nutritional-information;Concentrate Monsters
-220;Raisin Nectar;;;;;;;in ASR;Silver Hills Squirrelly Bread;https://silverhillsbakery.ca/our-products/squirrelly-bread/;-;;Other Monsters
-221;Rapadura;;;;;;;in ASR;Rapunzle Dark Chocolate Bar With Hazelnut;https://www.amazon.com/Rapunzel-Organic-Chocolate-Hazelnuts-3-Ounce/dp/B000E3C3QM;-;;Other Monsters
-222;Raspberry Juice Concentrate;;;;;;;in ASR;Turkey Hill Raspberry Cream Swirl Ice Cream;https://www.turkeyhill.com/frozen/ice-cream/premium-ice-cream/raspberry-cream-swirl;-;;Concentrate Monsters
-223;Raw Cane Sugar;;;;;;;in ASR;Finally Ginger Original Ginger Cookie;http://www.finallyginger.com/;-;;Sugar Monsters
-224;Raw Honey;;;;;;;x;Cappellos Gluten And Grain Free Pepperoni Pizza;https://cappellos.com/products/pepperoni-pizza-1;-;new family member to integrate on app;Other Monsters
-225;Raw Sugar;X;X;X;;X;;in ASR;Starbucks Cubano Sandwich;https://www.starbucks.com/menu/food/mercato/smoked-pork-cubano;-;;Sugar Monsters
-226;Red Cherry Juice Concentrate;;;;;;X;in ASR;Dreyer Oregon Black Cherry Ice Cream;https://www.dreyers.com/products/slow-churned/oregon-black-cherry/;Based on cherry juice concentrate;;Concentrate Monsters
-227;Refiner's Syrup;;;;X;;;in ASR;General Mills French Toast Crunch Cereal;https://www.amazon.com/General-French-Toast-Crunch-11-6-Ounce/dp/B00S1O6VH8;-;https://www.generalmills.com/en/Brands/Cereals/cinnamon-toast-crunch/brand-product-list;Syrup Monsters
-228;Refinery Syrup;;;;;;;;Friday's Honey BBQ Chicken Wings;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;-;new family member to integrate on app;Syrup Monsters
-229;Rice Maltodextrin;;;;;;;in ASR;Nature Valley Protein Bar Coconut Almond;https://www.naturevalley.com/product/gluten-free-protein-bars-coconut-almond/;-;;Dextrin Monsters
-230;Rice Syrup;;;;X;;;in ASR;Steadfast Oatmeal Cream Stout;https://www.steadfastbeer.com/;-;;Syrup Monsters
-231;Rice Syrup Solids;;;;;;;http://www.nutritionalmagnesium.org/high-fructose-corn-syrup-and-the-obesity-epidemic/;Perfectlyfree Mint Chocolate;https://www.perfectlyfree.com/bites/?flavor=mint-chocolate;-;new family member to integrate on app;Syrup Monsters
-232;Saccharose;;;;X;;;;Toschi Candied Orange Peels In Syrup;https://www.worldmarket.com/product/toschi+candied+orange+peels+in+syrup.do;-;new family member to integrate on app;Other Monsters
-233;Sorghum;;;;;;;in ASR;Steadfast Sorghum Pale Ale;https://www.beeradvocate.com/beer/profile/28862/80515/;-;;Other Monsters
-234;Sorghum Molasses;;;;;;;in ASR;Buchi Sovereign Kombucha Ginger, Peach, And Molasses;https://www.drinkbuchi.com/Brews/Sovereign;-;;Other Monsters
-235;Sorghum Syrup;;;;X;;;in ASR;Shane Candies Specialty Caramel Assortment;https://shanecandies.com/shop/chocolate-assortments/specialty-caramel-assortment-large/;-;;Syrup Monsters
-236;Strawberry Juice Concentrate;;;;;;;in ASR;Bai Antioxidant Infusion Sao Paulo Strawberry;https://www.drinkbai.com/products/sao-paulo-strawberry-lemon;-;;Concentrate Monsters
-237;Sucrose;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Arby Tangy Barbecue Sauce;https://www.keyingredient.com/recipes/5819082/bbq-sauce-arbys/;-;https://arbys.com/nutrition;OSE Monsters
-238;Sugar;;;X;;;;in ASR;General Mills Honey Nut Cheerios Cereal;https://www.cheerios.com/products/honey-nut-cheerios/;-;;Sugar Monsters
-239;Sugar Beet Syrup;;;;;;;in ASR;Westminster Baker Lucy Superfruit Cookies;https://www.westminstercrackers.com/superfruit-cookies;-;;Syrup Monsters
-240;Sugar Cane Granulated;;;;;;;in ASR;Finally Ginger Original Ginger Cookie;http://www.finallyginger.com/;-;;Sugar Monsters
-241;Sugar Cane Syrup;;;;;;;in ASR;Udi Delicious Soft White Sandwich Bread;https://udisglutenfree.com/products/delicious-soft-white-sandwich-bread-12-oz/;-;;Syrup Monsters
-242;Sugar Syrup;;;;;;;in ASR;House Foods Chinese Mabo Tofu Sauce;https://www.amazon.com/House-Foods-Sauce-5-29-Ounce-Boxes/dp/B0040Y4DJ6;-;https://www.flavorofjapan.com/products/mabo-tofu/chinese-mabo-tofu-sauce-hot;Syrup Monsters
-243;Sugarcane Molasses;;;X;;;;in ASR;Starbucks Ham And NY Cheddar Sandwich;https://www.starbucks.com/menu/food/sandwiches-panini-and-wraps/ham-ny-cheddar-sandwich?foodZone=9999;-;new family member to integrate on app;Other Monsters
-244;Syrup;;;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;in ASR;Daelmans Caramel Mini Stroopwafels;https://www.stroopwafels.com/us/product/daelmans-mini-caramel-200-pcs/;-;;Syrup Monsters
-245;Tangerine Juice Concentrate;;;;;;;in ASR;Shane Candies All Natural Jelly Bean;https://shanecandies.com/shop/fruity-gummy/all-natural-jelly-beans-%C2%BD-lb-2/;-;https://www.appleandeve.com/juices/100-juice-orange-tangerine/;Concentrate Monsters
-246;Tapioca Dextrin;;;;;;;in ASR;Stubb Spicy Bar-b-q Sauce;https://www.stubbsbbq.com/product/spicy/;-;;Dextrin Monsters
-247;Tapioca Maltodextrin;;;;;;;in ASR;Starbucks Ham And NY Cheddar Sandwich;https://www.starbucks.com/menu/food/sandwiches-panini-and-wraps/ham-ny-cheddar-sandwich?foodZone=9999;-;;Dextrin Monsters
-248;Tapioca Syrup;;;;;;;in ASR;Nugo Vanilla Yogurt;https://store.nugonutrition.com/nugo-vanilla-yogurt;-;;Syrup Monsters
-249;Tapioca Syrup Solids;;;;;;;x;Ciao Bella Coconut Sorbetto;https://www.ewg.org/foodscores/products/799512012037-CiaoBellaCoconutSorbetto;-;new family member to integrate on app;Syrup Monsters
-250;Tart Cherry Juice Concentrate;;;;;;X;in ASR;Kevita Master Brew Kombucha Tart Cherry;https://www.kevita.com/tart-cherry/;Based on cherry juice concentrate;;Concentrate Monsters
-251;Treacle;;;;X;;;in ASR;Kilwins Red Licorice Twists;https://www.kilwins.com/shop/more-favorites/red-licorice-twists;-;;Other Monsters
-252;Trehalose;X;X;;;;;in ASR;Miyasaka Freeze Fried Authentic [Instant] Miso Soup;https://www.amazon.com/Miyasaka-Freeze-Dried-Authentic-0-27-Ounce/dp/B005HUVJYO;-;http://miyasaka-usa.com/freeze-dried-authentic-instant-miso-soup/;OSE Monsters
-253;Turbinado Sugar;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Au Bon Pain Turkey Club;https://www.aubonpain.com/(GetProductDetails)/menu?id=194;-;https://www.aubonpain.com/menu#collapseOne;Sugar Monsters
-254;Unsulfured Molasses;;;;;;;in ASR;Barbara's Bakery Better Than Granola Oats & Honey Granola;https://www.thefreshgrocer.com/pd/Barbaras-Bakery/Better-than-Granola-Oats-and-Honey-Granola-Cereal/10-oz/070617300107/;-;;Other Monsters
-255;Watermelon Juice Concentrate;;;;;;;in ASR;Bai Antioxidant Infusion Kula Watermelon;https://www.drinkbai.com/products/kula-watermelon;-;;Concentrate Monsters
-256;Wheat Dextrin;;;;;;;in ASR;Benefiber Original;https://www.benefiber.com/fiber-supplement-products/benefiber-powder/;-;;Dextrin Monsters
-257;Wheat Glucose Syrup;;;;;;;in ASR;Sweet Gourmet Kookaburra Black Australian Licorice;http://www.sweetgourmet.com/sweetgourmet-kookaburra-black-australian-licorice.html;-;http://www.sweetgourmet.com/sweetgourmet-kookaburra-black-australian-licorice.html;OSE Monsters
-258;White Grape Juice Concentrate;;;;;;X;;Dole Fruit Bowls Cherry Mixed Fruit In 100% Fruit Juice;https://dolesunshine.com/products/fruit-bowls/regular/cherry-mixed-fruit-in-100-juice;Based on grape juice concentrate;new family member to integrate on app;Concentrate Monsters
-259;White Sugar;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;in ASR;Fun Factory Sweet Shoppe Blueberry Popcorn;https://funfactorysweets.com/products/blueberry;-;;Sugar Monsters
-260;Wildflower Honey;;;;;;;in ASR;Udi Gluten Free Au Naturel Granola;https://udisglutenfree.com/products/gluten-free-au-naturel-granola/;-;https://www.hannaford.com/mobileProduct/Wildflower-Honey-Ham/843656.uts;Other Monsters
-261;Yellow Sugar;;;;X;;;;Culinary Tours Szechuan Style Peanut Sauce;http://culinarytoursfoods.com/product/szechwan-sauce-marinade-peanuts/;-;new family member to integrate on app;Sugar Monsters
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
+;Name of Added Sugar;FDA;USDA;AHA;UCSF;HSPH;Popkin;other;Product Name;URL;Wei-Chih;note;MonstersFamily;
+1;Agave Nectar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;Panera Agave Lemonade;https://www.panerabread.com/en-us/menu-categories/drinks.html#agave-lemonade;checked;;Other Monsters;
+2;Agave Syrup;;;;X;X;;ASR;Starbucks Lemon Chiffon Yogurt;https://www.starbucks.com/menu/food/yogurt-and-fruit/lemon-chiffon-yogurt?foodZone=9999;checked;;Syrup Monsters;
+3;Anhydrous Dextrose;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;;;;ASR;Starbucks Chocolate Croissant;https://www.starbucks.com/menu/food/bakery/chocolate-croissant-lb;checked;;OSE Monsters;
+4;Apple Juice Concentrate;;;;;;;ASR;Clif Blueberry Crisp Bar;https://shop.clifbar.com/CLIF-Bar-Blueberry-Crisp/p/CLIF-102607&c=ClifBar@ClifBar@Bars;checked;;Concentrate Monsters;
+5;Barley Malt;;;;X;;;ASR;Sweet & Salty Peanut Pretzel Chewy Granola Bar;https://www.cascadianfarm.com/product/sweet-salty-peanut-pretzel-chewy-granola-bar/;checked;;Other Monsters;
+6;Barley Malt Extract;;;;;;;ASR;Clif Bar Chocolate Chip;https://www.clifbar.com/products/clif/clif-bar/chocolate-chip;checked;;Other Monsters;
+7;Barley Malt Syrup;;;;X;;;ASR;Starbucks Fresh Blueberries And Honey Greek Yogurt Parfait;https://www.starbucks.com/menu/food/yogurt-and-fruit/fresh-blueberries-and-honey-greek-yogurt-parfait?foodZone=9999;checked;;Syrup Monsters;
+8;Beet Juice Concentrate;;;;;;;ASR;Yoplait Cherry Orchard;https://www.yoplait.com/product/regular-original-cherry-orchard;checked;;Concentrate Monsters;
+9;Beet Sugar;;;;X;;;ASR;Nutella;https://www.nutella.com/en/us/nutella-sugar;checked;;Sugar Monsters;
+10;Beet Syrup;;;;;;;ASR;Clif Builder'S Chocolate Mint;https://www.clifbar.com/products/clif/builder-s/chocolate-mint;checked;;Syrup Monsters;
+11;Black Currant Juice Concentrate;;;;;;;ASR;Yogurtland Black Currant Berry Tart Yogurt;https://www.yogurt-land.com/flavors/view/3805/black-currant-berry-tart;checked;;Concentrate Monsters;
+12;Blackberry Juice Concentrate;;;;;;;ASR;Lindt Blackberry With Acai Excellence Bar;https://www.lindtusa.com/blackberry-with-acai-excellence-bar-e000486;checked;;Concentrate Monsters;
+13;Blackcurrant Juice Concentrate;;;;;;;;Nestlé Ceregrow;https://www.nestle.in/brands/mpn/ceregrow/ingredients;checked;;Concentrate Monsters;
+14;Blackstrap Molasses;;;;;;;ASR;Whole Foods Gluten-Free Molasses Ginger Cookies;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;checked;;Other Monsters;
+15;Blood Orange Juice Concentrate;;;;;;;ASR;Noosa Blood Orange Yogurt;https://www.noosayoghurt.com/product/blood-orange/;checked;;Concentrate Monsters;
+16;Blueberry Juice Concentrate;;;;;;;ASR;Oakhurst Wild Blueberry Milk;https://www.oakhurstdairy.com/product/flavored-milk-products/wild-blueberry-milk/;checked;;Concentrate Monsters;
+17;Boysenberry Juice Concentrate;;;;;;;ASR;Edy'S Sherbet Berry Rainbow;https://www.edys.com/products/edys-classics/berry-rainbow/edys-classics-sherbet/;checked;;Concentrate Monsters;
+18;Brown Cane Sugar;;;;;;;ASR;Tate'S Chocolate Chip Cookies;https://www.tatesbakeshop.com/Ingredients.pdf;checked;;Cane Monsters;
+19;Brown Rice Syrup;;;;;;X;ASR;Kashi Golean Honey Almond Flax Crunch Cereal;https://www.kashi.com/our-foods/cold-cereal/kashi-golean-crunch-honey-almond-flax-cereal;checked;;Syrup Monsters;
+20;Brown Rice Syrup Solids;;;;;;;ASR;Mccormick Good Morning Brown Sugar Vanilla Breakfast Seasoning;https://www.mccormick.com/spices-and-flavors/breakfast/breakfast-seasonings/good-morning-brown-sugar-vanilla-seasoning;checked;;Syrup Monsters;
+21;Brown Sugar;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Stubb'S Stick Sweet Bar-B-Q Sauce;http://www.stubbsbbq.com/product/sticky-sweet/?utm_source=google&utm_medium=cpc&utm_term=sweet%20bbq%20sauce&utm_content=stubbs&utm_campaign=stubbs%7Cfy17%7Cggl%7Cnb%7Cproducts%7Cbbq-sauce%7Cbroad&gclid=Cj0KCQjw45_bBRD_ARIsAJ6wUXS2v9xsHOqpvNhFLCM1CZQMkvTzC5kYmansS5pj0pX84dWo2vfDAPUaAnFyEALw_wcB;checked;;Sugar Monsters;
+22;Brown Sugar Syrup;;;;;;;ASR;Fiber One Cereal Honey Clusters;https://www.generalmills.com/en/Brands/Cereals/fiber-one/brand-product-list;checked;;Sugar Monsters;
+23;Cane Crystals;;;;;X;;ASR;Earthsweet Chewables Vitamin B6, B12 & Folic Acid Tablets;http://bluebonnetnutrition.com/product/74/EarthSweet%AE_Chewables_Vitamin_B%3Csub%3E6%3C-sub%3E%2C_B%3Csub%3E12%3C-sub%3E_%26_Folic_Acid_Tablets;checked;;Cane Monsters;
+24;Cane Juice;;;;X;;;ASR;Whole Foods Madagascar Vanilla Wafers;https://www.wholefoodsmarket.com/products/magagascar-vanilla-wafers;checked;;Cane Monsters;
+25;Cane Juice Crystals;;;;X;;;ASR;Eggcellent Molasses Bacon Seasonings;https://www.eggcellentseasonings.com/product/molasses-bacon/?add-to-cart=291;checked;;Cane Monsters;
+26;Cane Molasses;;;;;;;ASR;Among Friends Shane'S Molasses Ginger Cookie Mix;http://amongfriendsbakingmixes.com/shanes-5/;checked;;Cane Monsters;
+27;Cane Refinery Syrup;;;;;;;ASR;Whataburger Grilled Chicken Sandwich;http://whataburger.com/food/item/grilled-chicken-sandwich-;checked;;Cane Monsters;
+28;Cane Sugar;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Starbucks Smoked Mozarella & Roasted Pepper Sandwich;https://www.starbucks.com/menu/food/mercato/smoked-mozzarella-roasted-peppers;checked;;Cane Monsters;
+29;Cane Syrup;;;;X;;;ASR;Udis Gluten Free Cinnamon Raisin Bagel;https://udisglutenfree.com/products/cinnamon-raisin-bagel/;checked;;Cane Monsters;
+30;Caramelized Pear Juice Concentrate;;;;;;;ASR;Bakery On Main Extreme Nut & Fruit Granola;https://bakeryonmain.com/shop/extreme-nut-fruit-granola/;checked;;Concentrate Monsters;
+31;Caramelized Sugar;;;;;;;ASR;Gravymaster;http://www.gravymaster.com/nutritional-information/;checked;;Sugar Monsters;
+32;Caramelized Sugar Syrup;;;;;;;ASR;Sahale Snacks Honey Almonds Glazed Mix;http://www.sahalesnacks.com/products/honey-almonds-glazed-mix;checked;;Sugar Monsters;
+33;Carrot Juice Concentrate;;;;;;;ASR;V8® Fruit & Vegetable Blends Carrot Mango;https://www.campbells.com/v8/v8-fruit-and-vegetable-blends/carrot-mango/;checked;;Concentrate Monsters;
+34;Cherry Juice Concentrate;;;;;;X;ASR;Chobani Black Cherry On The Bottom Yogurt;https://www.chobani.com/products/greek/fruit-on-the-bottom/black-cherry/;checked;;Concentrate Monsters;
+35;Clarified Guava Juice Concentrate;;;;;;;ASR;Nestlé Vitality Passion Fruit Orange Guava Frozen Juice Concentrate;https://www.nestleprofessional.us/nestle-vitality/nestle-vitality-passion-fruit-orange-guava-cocktail-10-frozen-concentrate-6-x-64-oz;checked;;Concentrate Monsters;
+36;Clover Honey;;;;;;;ASR;Tears Of Joy Kent'S Sauce;https://www.tearsofjoysauces.com/products/kents-sauce;checked;;Other Monsters;
+37;Coconut Blossom Sugar;;;;;;;ASR;Dream Pops Chocolate Lion;https://dreampops.com/collections/all/products/chocolate-lion-4-pack;checked;;Sugar Monsters;
+38;Coconut Nectar;;;;;;;ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;checked;;Other Monsters;
+39;Coconut Palm Nectar;;;;;;;ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;checked;;Other Monsters;
+40;Coconut Palm Sugar;;;;X;;;ASR;Fage Crossovers Maple Syrup With Granola;https://usa.fage/yogurts/fage-crossovers#maple-syrup-granola;checked;;Sugar Monsters;
+41;Coconut Sugar;;;;X;;;ASR;Miracle Noodle Ready-To-Eat Spaghetti With Tomato Sauce;https://miraclenoodle.com/products/miracle-noodle-ready-to-eat-spaghetti-with-tomato-sauce;checked;;Sugar Monsters;
+42;Coconut Sugar Crystals;;;;;;;ASR;The Great Unbaked Dark Chocolate Truffle Balls;https://www.thegreatunbaked.com/pages/ingredients;checked;;Sugar Monsters;
+43;Concentrated Melon Juice;;;;;;;ASR;Hi-Chew Candy;https://www.hi-chew.com/nutrition-information/#grabBag-nutrition;checked;;Concentrate Monsters;
+44;Confectioners' Sugar;;;;X;;;ASR;Whole Foods Gluten-Free Vanilla Cupcakes;https://www.wholefoodsmarket.com/gluten-free/ingredients-nutrition;checked;;Sugar Monsters;
+45;Corn Barley Malt Syrup;;;;;;;ASR;Country Life Natural Foods Cashwe Date Delight Granola;https://www.clnf.org/cashew-date-delight-3;checked;;Syrup Monsters;
+46;Corn Dextrin;;;;;;;ASR;Swiss Miss Sensible Sweets Light Hot Cocoa;https://www.keurig.com/medias/sensible-sweets-swiss-miss-nutrional-info.jpg?context=bWFzdGVyfG51dHJpdGlvbmFsLWluZm9ybWF0aW9ufDM4NjU3NXxpbWFnZS9qcGVnfG51dHJpdGlvbmFsLWluZm9ybWF0aW9uL2gxYy9oMzAvMjgzMTQzNzYzMzk0ODYuanBnfDNmNTY3MGFlZmJkZDE5MWU1MDljM2UxMWUwMWRiNmI1OTY5ZDZjYTFlNWVhNDJkYWI2NzE2YWQyZTJlYmM3N2U;checked;;Dextrin Monsters;
+47;Corn Maltodextrin;;;;;;;ASR;Ensure Plus Milk Chocolate Nutrition Shake;https://ensure.com/nutrition-products/ensure-plus#milk-chocolate;checked;;Dextrin Monsters;
+48;Corn Sweetener;X;X;X;X;X;;ASR;Blue Pacific Grill Thai Peanut Sauce;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;checked;;Other Monsters;
+49;Corn Syrup;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Starbucks Almond Butter Strawberries & Jam Sandwich;https://www.starbucks.com/menu/food/mercato/almond-butter-strawberry-jam;checked;;Syrup Monsters;
+50;Corn Syrup Butter;;;;;;;ASR;Fun Factory Sweet Shoppe Blueberry Popcorn;https://funfactorysweets.com/products/blueberry;checked;;Syrup Monsters;
+51;Corn Syrup Solids;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;X;;;ASR;Quaker Chewy Granola Bars;http://www.quakeroats.com/products/oat-snacks/chewy-granola/chocolate-chip.aspx;checked;;Syrup Monsters;
+52;Cranberry Juice Concentrate;;;;;;X;ASR;Brookside Dark Chocoalte Fruit Flavored Centers Acai And Blueberry Flavors;https://www.brooksidechocolate.com/en_us/products/blueberry-acai.html;checked;;Concentrate Monsters;
+53;Crystalline Fructose;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Endura Energy And Rehydration Formula;https://www.metagenics.com/mas_assets/theme/metagenics/pdf/MET2170_Metagenics_Product_Catalog_2016.pdf;checked;;OSE Monsters;
+54;Dark Brown Cane Sugar;;;;;;;ASR;Tefftations Gluten Free Cookies Screamin' Chocolate Chip And Walnut;http://www.bellafinefoods.com/gluten-free-cookie-screamin-chocolate-chip-and-walnut-tefftations/;checked;;Cane Monsters;
+55;Dark Brown Sugar;;;;;;;ASR;Fleurir Chocolates Cashew Toffee With Golden Flaxseed;http://www.fleurirchocolates.com/ingredients/;checked;;Sugar Monsters;
+56;Date Crystals;;;;;;;ASR;Shields' Famous Date Shake;http://www.shieldsdategarden.com/Images/lunch-menu-summer2017.pdf;checked;;Other Monsters;
+57;Date Juice Concentrate;;;;;;;ASR;Pascha Make Me Smile! Chocolate Fruit Spread;https://paschachocolate.com/collections/spread/products/new-improved-taste-make-me-smile-chocolate-fruit-spread;checked;;Concentrate Monsters;
+58;Date Syrup;;;;;;;ASR;4Th & Heart Original Recipe Chocti Chocolate Chee Spread;https://fourthandheart.com/product/original-recipe-chocti/;checked;;Syrup Monsters;
+59;Decorative Sugars;;;;;;;ASR;Lucy'S Holiday Sugars Cookies;http://www.westminstercrackers.com/holiday-sugar-cookies?page_id=42;checked;;Sugar Monsters;
+60;Dehydrated Cane Juice;;;;X;;;ASR;Hadley Fruit Orchards Natural Juice Sweetened Mangos;https://www.hadleyfruitorchards.com/product/natural-juice-sweetened-mangos-6oz;checked;;Cane Monsters;
+61;Dehydrated Cane Sugar;;;;;;;ASR;Chatfield'S White Chocolate Chips;https://www.chatfieldsbrand.com/product/white-chocolate-chips;checked;;Cane Monsters;
+62;Demerara Sugar;;;;X;;;ASR;Omaha Steaks Sweet Smoky Applewood Rub;https://www.omahasteaks.com/servlet/OnlineShopping?Dsp=5706&IID=2652;checked;;Sugar Monsters;
+63;Dextrin;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;365 Everyday Value Tanoori Naan Roasted Garlic;https://products.wholefoodsmarket.com/product/365-everyday-value-365-everyday-value-tandoori-naan-roasted-garlic-4-each-be62dd;checked;;Dextrin Monsters;
+64;Dextrose;X;X;X;X;X;;ASR;Nature Valley Peanut Butter Protein Granola;https://www.naturevalley.com/product/peanut-butter-granola/;checked;;OSE Monsters;
+65;Dextrose Anhydrous Glucose;;;;;;;ASR;House Foods Vermont Curry Mild;https://housefoods-group.com/products/en/catalog/vmt/mid.html;checked;;OSE Monsters;
+66;Dextrose Sugar;;;;;;;ASR;Weightwatchers Toffee Peanut Mini Bar;https://www.weightwatchers.com/images/1033/dynamic/GCMSImages/Snacksmore_MiniBars_LearnMore.pdf;checked;;OSE Monsters;
+67;Diastatic Malt;;;;;;;ASR;Prager Brothers Croissant;http://www.pragerbrothers.com/ingredients/;checked;;Other Monsters;
+68;Diastatic Malt Powder;;;;;;;ASR;Wendel'S Rustic Pan Rye Bread;https://nutritiondatalist.com/product/rustic-pan-rye-bread-upc-857434002120;checked;;Other Monsters;
+69;Dried Brown Rice Syrup;;;;;;X;ASR;Kashi Chewy Granola Bars, Peanut Peanut Butter;https://www.kashi.com/our-foods/bars/kashi-chewy-granola-bars-peanut-peanut-butter;checked;;Syrup Monsters;
+70;Dried Cane Syrup;X;X;X;X;X;;ASR;Kashi Golean Honey Almond Flax Crunch Cereal;https://www.kashi.com/our-foods/cold-cereal/kashi-golean-crunch-honey-almond-flax-cereal;checked;;Cane Monsters;
+71;Dried Cherry Juice Concentrate;;;;;;X;ASR;Clif Bar Tart Cherry Berry Flavor;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;checked;;Concentrate Monsters;
+72;Dried Corn Syrup;X;X;X;X;X;;ASR;Fruit Gushers Flavor Mixers;http://www.generalmills.com/en/Brands/Snacks/fruit-snacks/brand-product-list;checked;;Syrup Monsters;
+73;Dried Cranberry Juice Concentrate;;;;;;X;ASR;Clif Bar Tart Cherry Berry Flavor;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;checked;;Concentrate Monsters;
+74;Dried Glucose Syrup;;;;;;;ASR;Tim Hortons Sundried Tomato Asiago Parm Bagel;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;checked;;OSE Monsters;
+75;Elderberry Juice Concentrate;;;;;;;;Blueberry Crisp Clif Bar;https://www.clifbar.com/products/clif/clif-bar/blueberry-crisp;checked;;Concentrate Monsters;
+76;Evaporated Cane Crystals;;;;;;;ASR;Tanka Sticks Slow Smoked Original;http://www.tankabar.com/cgi-bin/nanf/public/viewStory.cvw?sessionid=497c4676af9ce8358b4f29fc472e4241cdb92ddae837&storyid=134975&sectionname=Nutritionals&commentbox=Y;checked;;Cane Monsters;
+77;Evaporated Cane Juice;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;Gopicnic Peanut Butter And Crackers;http://gopicnic.com/peanut-butter-crackers;checked;;Cane Monsters;
+78;Evaporated Cane Juice Invert Syrup;;;;;;;ASR;Whole Foods Back To Nature Dark Chocolate And Oats Granola Cookie;https://www.backtonaturefoods.com/what-we-make/cookies/dark-chocolate-oats-granola-cookies/;checked;;Cane Monsters;
+79;Evaporated Cane Sugar;;;;X;X;;ASR;Popcorners Kettle Corn;https://www.popcorners.com/pop-corners/kettle-corn-pop-corners;checked;;Cane Monsters;
+80;Evaporated Cane Syrup;X;X;X;X;X;;ASR;Weight Watchers Smart Made White Wine Chicken And Couscous;https://www.eatyourbest.com/smartmade/product/00025800000234;checked;;Cane Monsters;
+81;Evaporated Coconut Palm Nectar;;;;;;;ASR;Rickaroons Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;checked;;Other Monsters;
+82;Fair Trade Unrefined Cane Sugar;;;;;;;ASR;Tabl Pomegranate Ketçhup;https://www.tabl.com/aphrodites/pomegranate-ket%C3%A7hup;checked;;Cane Monsters;
+83;Fondant Sugar;;;;;;;ASR;Dan'S Chocolates Classic Assorted;https://www.danschocolates.com/ingredients;checked;;Sugar Monsters;
+84;Fructan;;;;;;;ASR;Barbara'S Better Than Granola Dark Chocoalte Cranberry Granola;http://shop.barbaras.com/Dark-Chocolate-Cranberry-Better-Granola/p/BAR-300152&c=BarbarasBakery@Cereals@Granola?displayType=FullSite#nutrition_display;checked;;Other Monsters;
+85;Fructooligosaccharides;;;;;;;ASR;Similac Organic Baby Formula;https://similac.com/baby-formula/similac-advance-organic;checked;;Other Monsters;
+86;Fructose;X;X;X;X;X;;ASR;Nature Valley Protein Bar Peant Butter Chocolate Chip;https://www.naturevalley.com/product/gluten-free-protein-bars-peanut-butter-dark-chocolate/;checked;;OSE Monsters;
+87;Fruit Juice Concentrate;X;;X;X;X;;ASR;Amande Cultured Almondmilk Plain Yogurt;http://www.amandeyogurt.com/flavors.html;checked;;Concentrate Monsters;
+88;Galactooligosaccharides;;;;;;;ASR;Similac Go & Grow Non-Gmo Toddler Drink;https://similac.com/toddler-formula/go-grow-non-gmo;checked;;Other Monsters;
+89;Glucose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;Tim Horton'S Lemon Blueberry Greek Yogurt Muffin;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;checked;;OSE Monsters;
+90;Glucose Fructose Syrup;;;;;;;ASR;Lindt Excellence Blackberry Acai 3.5Oz;https://www.lindtusa.com/wcsstore/LindtCatalogAssetStore/Attachment/products/nutritional/nutritional-information-SKU-E000486.pdf;checked;;OSE Monsters;
+91;Glucose Solids;;;;;;;ASR;Tim Horton'S Cinnamon Rolls;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;checked;;OSE Monsters;
+92;Glucose Syrup;;;;;;;ASR;Roland Balsamic Glaze With Balsamic Vinegar Of Modena;https://app.salsify.com/catalogs/8d479ec2-aefa-4432-80ef-858b9b084952/products/70430;checked;;OSE Monsters;
+93;Glucose Syrup Solids;;;;;;;ASR;The Curious Creamery Vanilla Ice Cream Mix ;https://shop.thecuriouscreamery.com/vanilla-ice-cream-mix-6-pouch-pack/;checked;;OSE Monsters;
+94;Goji Berry Juice Concentrate;;;;;;;ASR;Brookside Chocolate Fruit Flavored Centers;https://smartlabel.hersheys.com/00068437383509-0012#ingredients;checked;;Concentrate Monsters;
+95;Golden Brown Sugar;;;;;;;;Boysenberry Chocolate Chip;https://www.jackiescookieconnection.com/ingredients;checked;;Sugar Monsters;
+96;Golden Syrup;;;;X;;;ASR;Lesley Stowe Raincoast Crisps;http://www.lesleystowe.com/product-line/raincoast-crisps/;checked;;Syrup Monsters;
+97;Granulated Sugar;;;;;;;;Starbucks Ham & Ny Cheddar Sandwich;https://www.starbucks.com/menu/food/sandwiches-panini-and-wraps/ham-ny-cheddar-sandwich?foodZone=9999;checked;;Sugar Monsters;
+98;Grape Juice Concentrate;;;;;;X;ASR;Bodybuilding Cake Bites High Protein Snack ;https://www.bodybuilding.com/store/optimum-nutrition/cake-bites.html?mcid=GGL_US_Products_Products_Optimum_Cake_Bites&bbkwid=298107199608&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6fXnkkhv6hTgJk2UE-4Dt_V8aWEU_yqCT7eKhyl5BhH5dApvZ9VIDxoC_dQQAvD_BwE;checked;;Concentrate Monsters;
+99;Grape Sugar;;;;;;;ASR;Olbas Wellness Tea;http://www.olbas.com/olbas-remedies/olbas-herbal-tea/;checked;;Sugar Monsters;
+100;High Fructose Corn Syrup;X;X;X;;X;;ASR;V8 Splash® Berry Blend;https://www.campbellsfoodservice.com/product/v8-splash-berry-blend-3/;checked;;OSE Monsters;
+101;High Maltose Corn Syrup Solids;;;;;;;ASR;The Blue Pacific Grill Mango Habanero;http://www.thebluepacificgrill.com/Nutritional%20ingredient%20guides%20for%20BPG.pdf;checked;;OSE Monsters;
+102;Honey;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Honey Nut Cheerios;http://www.cheerios.com/en/products/Honey%20Nut%20Cheerios.aspx;checked;;Other Monsters;
+103;Honey Powder;;;;;;;ASR;Tgi Friday'S Chicken Wings Honey Bbq;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;checked;;Other Monsters;
+104;Honeydew Juice Concentrate;;;;;;;ASR;Tazo Green Tea Matcha Latte;https://www.tazo.com/green-tea/green-tea-matcha-latte;checked;;Concentrate Monsters;
+105;Icing Sugar;;;;X;;;ASR;Trader Joes Peaches & Cream Tarte;https://www.traderjoes.com/digin/post/peaches--cream-tarte;checked;;Sugar Monsters;
+106;Invert Cane Syrup;;;;;;;ASR;Boomchickapop Salted Caramel Popcorn;https://boomchickapop.com/our-products/;checked;;Cane Monsters;
+107;Invert Sugar;X;X;X;X;X;;ASR;Pringles® Sour Cream & Onion;http://smartlabel.kelloggs.com/Product/Index/00038000138430;checked;;Sugar Monsters;
+108;Invert Sugar Cane Syrup;;;;;;;ASR;Boni Selection Bio Gingerbread Sliced;https://www.mangebelge.com/en/biscuits-gaufres/315-boni-selection-bio-gingerbread-sliced-300-gr-5400141104424.html;checked;;Sugar Monsters;
+109;Invert Syrup;;;;;;;ASR;Chuckanut Cheesecake Company Fruit Cake;https://nutritiondatalist.com/product/fruit-cake-upc-603812580601;checked;;Syrup Monsters;
+110;Isomalto-Oligosaccharide;;;;;;;ASR;Em-Power Peanut Butter Paradise Bars;http://em-powerbars.com/nutrition-facts/;checked;;Other Monsters;
+111;Kiwi Juice Concentrate;;;;;;;ASR;Snapple Kiwi Strawberry;https://www.snapple.com/products/snapple-kiwi-strawberry-juice;checked;;Concentrate Monsters;
+112;Lactose;X;X;X;;;;ASR;Turkey Creek Snacks Salt and Vinegar Tender Craklings;https://www.turkeycreeksnacks.com/tender_cracklins_sv.php;checked;;OSE Monsters;
+113;Lemon Juice Concentrate;;;;;;;Perfact;Mayonnaise Squeeze Bottle;https://www.target.com/p/mayonnaise-squeeze-bottle-22oz-market-pantry-153/-/A-13007248;checked;;Concentrate Monsters;
+114;Light Brown Cane Sugar;;;;;;;ASR;Truemadefoods Pitmaster Bbq Sauce;https://www.truemadefoods.com/shop/sauces/pitmaster-bbq-sauce-original;checked;;Cane Monsters;
+115;Light Brown Sugar;;;;;;;ASR;Oatmega Peanut Butter;http://shop.oatmega.com/Peanut-Butter/p/OAT-020202&c=Oatmega@Cookies#;checked;;Sugar Monsters;
+116;Liquid Sugar;;;;;;;ASR;Wegmans Pink Grapefruit Sorbet;https://www.wegmans.com/products/frozen-foods/ice-cream-and-frozen-yogurt/ice-cream/pink-grapefruit-sorbet.html;checked;;Sugar Monsters;
+117;Loganberry Juice Concentrate;;;;;;;ASR;Crystal Beach Amusement Park Original Loganberry Drink 2 Liters;https://www.walmart.com/ip/Crystal-Beach-Amusement-Park-Original-Loganberry-Drink-2-Liters/37321725;checked;;Concentrate Monsters;
+118;Malt Extract;;;;;;;ASR;Fiber One Oats & Chocolate;https://www.fiberone.com/products/bars/oats-chocolate;checked;;Other Monsters;
+119;Malt Syrup;;X;;X;X;;ASR;Fiber One Honey Clusters;https://www.fiberone.com/products/cereals/honey-clusters;checked;;Syrup Monsters;
+120;Maltodextrin;;;;X;;;ASR;Nissin Cup Noodles®;http://nissinfoods.com/products/cup-noodles;checked;;Dextrin Monsters;
+121;Maltol;;;X;X;X;;ASR;Mccormick Culinary® Lemon 'N Herb Seasoning;http://www.mccormickforchefs.com/products/mccormick-culinary/lemon-n-herb-seasoning;checked;;Other Monsters;
+122;Maltose;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;A-Sha Seaweed Snack - Original Flavor;http://www.ashaseaweedsnacks.com/the-original-2/;checked;;OSE Monsters;
+123;Mango Juice Concentrate;;;;;;;ASR;Bai Malawi Mango;http://www.drinkbai.com/products/malawi-mango;checked;;Concentrate Monsters;
+124;Maple Sugar;;;;;;;ASR;Base Culture'S Paleo Almond Butter Gingerbread;https://baseculture.com/collections/almond-butters/products/almond-butter-gingerbread?variant=42899641480;checked;;Sugar Monsters;
+125;Maple Syrup;;;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Nature Valley Maple Brown Sugar Big And Crunchy Granola;https://www.naturevalley.com/product/maple-brown-sugar-granola-crunch/;checked;;Syrup Monsters;
+126;Milled Cane Sugar;;;;;;;ASR;Starbucks Fresh Blueberries And Honey Greek Yogurt Parfait;https://www.starbucks.com/menu/food/yogurt-and-fruit/fresh-blueberries-and-honey-greek-yogurt-parfait?foodZone=9999;checked;;Cane Monsters;
+127;Molasses;X;X;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Smartmade Rosemary Grilled Beef And Vegetables;https://www.eatyourbest.com/smartmade/product/00025800000326;checked;;Other Monsters;
+128;Molasses Granules;;;;;;;x;Darcy’S Delish Old Fashioned Chocolate Chip Cookie Mix;http://amongfriendsbakingmixes.com/darcys-delish-old-fashioned-chocolate-chip-cookie-mix/;checked;;Other Monsters;
+129;Molasses Powder;;;;;;;ASR;Maple Cinnamon French Toast Bagel;https://www.timhortons.com/us/en/pdf/Ingredient_Information_-_USA.pdf;checked;;Other Monsters;
+130;Monk Fruit Juice Concentrate;;;;;;;;Fairlife® Chocolate With Dha Ultra Filtered Milks;https://fairlife.com/ultra-filtered-milks/fairlife-chocolate-with-dha/;checked;;Concentrate Monsters;
+131;Monk Juice Concentrate;;;;;;;;Fairlife Yup!® Very Strawberry Low-Fat Milk;https://fairlife.com/yup/yup-very-strawberry/;checked;;Concentrate Monsters;
+132;Muscovado;;;;X;;;ASR;Chinese Doughnuts Muscovado Sugar Flavor Mi Ma Hua;https://www.amazon.com/OUZ123-Chinese-Doughnuts-Muscovado-Flavor/dp/B07LF1CLL8/ref=sr_1_78?keywords=Muscovado&qid=1551822889&s=gateway&sr=8-78&th=1;checked;;Other Monsters;
+133;Non Gmo Honey;;;;;;;;Dark Chocolate Cranberry;http://shop.barbaras.com/Dark-Chocolate-Cranberry-Better-Granola/p/BAR-300152&c=BarbarasBakery@Cereals@Granola#;checked;;Other Monsters;
+134;Oat Syrup Solids;;;;;;;ASR;Back To Nature Apple Cinnamon Granola Clusters;http://www.backtonaturefoods.com/what-we-make/granola/granola-clusters/apple-cinnamon-granola-clusters/;checked;;Syrup Monsters;
+135;Orange Juice Concentrate;;;;;;;ASR;Bai Costa Rica Clementine Drink;http://www.drinkbai.com/products/costa-rica-clementine;checked;;Concentrate Monsters;
+136;Organic Agave;;;;;;;ASR;Wegmans Sushi ;https://www.wegmans.com/products/sushi/family-pack/sushi/sushi-party-pack-family-pack.html;checked;;Other Monsters;
+137;Organic Agave Nectar;;;;X;;;ASR;The Gluten Free Bar Oatmeal Raisin Bars;https://theglutenfreebar.com/products/the-gfb-oatmeal-raisin-protein-bars-case-of-12?variant=395090025&gclid=CjwKCAiAlfnUBRBQEiwAWpPA6eSX81HgJqEWFSyJ5d6t0PSc7RjAZ14IcI78DRhdrw_62RljBMHIEBoCNZgQAvD_BwE;checked;;Other Monsters;
+138;Organic Apple Juice Concentrate;;;;;;;ASR;Barbaras Honest Os Honey Nut;http://barbaras.com/products/barbaras-classics/honest-os-honey-nut/;checked;;Concentrate Monsters;
+139;Organic Barley Malt Syrup;;;;X;;;ASR;Wegmans Granola, Organic, Coconut & Baobab;https://www.wegmans.com/products/grocery-food/breakfast/granola/granola-organic-coconut-baobab.html;checked;;Syrup Monsters;
+140;Organic Brown Rice Syrup;;;;;;X;ASR;Clif Chocolate Peanut Butter Flavor;https://www.clifbar.com/products/clif/builder-s/builders-chocolate-peanut-butter;checked;;Syrup Monsters;
+141;Organic Brown Sugar;X;X;X;X;X;;ASR;Annies Organic Brown Sugar Cinnamon Toaster Pastries;https://www.annies.com/products/cereal/organic-brown-sugar-cinnamon-toaster-pastries;checked;;Sugar Monsters;
+142;Organic Cane Crystals;;;;;X;;ASR;Flying Bird Botanicals Cacao Especial;https://www.flyingbirdbotanicals.com/collections/organic-cacao/products/cacao-especial;checked;;Cane Monsters;
+143;Organic Cane Sugar;;;;X;X;;ASR;365 Everyday Value Organic Whole Wheat Pancakes;https://www.wholefoodsmarket.com/products/365-everyday-value-organic-whole-wheat-pancakes;checked;;Cane Monsters;
+144;Organic Cane Syrup;;;;X;;;ASR;Clif Caramel Toffee With Sea Salt Flavor Bar;https://www.clifbar.com/products/clif/clif-bar/caramel-toffee-with-sea-salt;checked;;Cane Monsters;
+145;Organic Caramel Syrup;;;;;;;;Caramel Almond Crunch;https://www.mrdewies.com/menu/;checked;;Syrup Monsters;
+146;Organic Cherry Juice Concentrate;;;;;;X;ASR;Clif Tart Cherry Berry Flavor Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;checked;;Concentrate Monsters;
+147;Organic Coconut Blossom Nectar;;;;;;;ASR;Simpletruth Coconut Aminos All Purpose Seasoning Sauce;https://www.simpletruth.com/products/coconut-aminos-all-purpose-seasoning-sauce/;checked;;Other Monsters;
+148;Organic Coconut Nectar;;;;;;;ASR;Rise Bar Lemon Cashew Protein Bar;https://risebar.com/collections/plant-protein-bars/products/lemon-cashew-protein-bars;checked;;Other Monsters;
+149;Organic Coconut Palm Sugar;;;;X;;;ASR;Mrdewies Caramel Almond Crunch;https://www.mrdewies.com/menu/;checked;;Sugar Monsters;
+150;Organic Coconut Sugar;;;;;;;ASR;Purely Elizabeth Original Ancient Grain Granola Bar;https://purelyelizabeth.com/product/original-ancient-grain-granola/;checked;;Sugar Monsters;
+151;Organic Coconut Syrup;;X;;X;;;ASR;Organic Coconut + Fruit Granola (Gluten Free);https://www.grandyoats.com/products/gluten-free-coconut-fruit-granola;checked;;Syrup Monsters;
+152;Organic Date Nectar;;;;;;;;Rebel Kitchen Coffee Mylk;https://rebel-kitchen.com/products/big-rebels/;checked;;Other Monsters;
+153;Organic Date Sugar;;;;;;;ASR;Dr. Fuhrman'S Matozest Salt-Free Seasoning;https://www.drfuhrman.com/shop/products/40/matozest-salt-free-seasoning;checked;;Sugar Monsters;
+154;Organic Dextrose;;;;;;X;ASR;Spun Paradise Organic Cotton Candy Watermelon;https://www.spunparadise.com/organic/organic-watermelon;checked;;OSE Monsters;
+155;Organic Dried Cane Sugar;;;;;;;ASR;Natures Bakery Organic Honey Oat And Blueberry Bars;https://naturesbakery.com/snack-products/organic-honey-oat-bars-blueberry;checked;;Cane Monsters;
+156;Organic Dried Cane Syrup;;;;;;;ASR;Clif Chocolate Mint Bar;https://www.clifbar.com/products/clif/builder-s/chocolate-mint;checked;;Cane Monsters;
+157;Organic Dried Cherry Juice Concentrate;;;;;;;ASR;Clif Fruit Smoothie Filled Tart Cherry Berry Bar;https://www.clifbar.com/products/clif/fruit-smoothie-filled/tart-cherry-berry;checked;;Concentrate Monsters;
+158;Organic Evaporated Cane Juice;;;;;;;ASR;Late July Dark Chocolate Covered Peppermint Sandwich Cookie;https://www.wholefoodsmarket.com/products/dark-chocolate-covered-peppermint-sandwich-cookie;checked;;Cane Monsters;
+159;Organic Evaporated Coconut Palm Nectar;;;;;;;ASR;Chocolate Blonde;https://www.rickaroons.com/chocolate-blonde/;checked;;Other Monsters;
+160;Organic Fair Trade Unrefined Cane Sugar;X;;X;X;X;;ASR;Organic Valley Grassmilk Vanilla Yogurt;https://www.organicvalley.coop/products/grassmilk-yogurt/grassmilk-yogurt-24-oz/vanilla-grassmilk-yogurt-24-oz/;checked;;Cane Monsters;
+161;Organic Glucose Syrup;;;;;;;;Blueberry Crisp Clif Bar;https://www.clifbar.com/products/clif/clif-bar/blueberry-crisp;checked;;OSE Monsters;
+162;Organic Honey;;;;;;;ASR;Nature Path Love Crunch Dark Chocolate Macaroon Granola Bars;https://www.naturespath.com/en-us/products/love-crunch/dark-chocolate-macaroon-granola-bars/;checked;;Other Monsters;
+163;Organic Invert Cane Syrup;;;;;;;ASR;Nature Path Love Crunch Dark Chocolate Macaroon Granola Bars;https://www.naturespath.com/en-us/products/love-crunch/dark-chocolate-macaroon-granola-bars/;checked;;Cane Monsters;
+164;Organic Invert Sugar;;;;;;;ASR;Wholesome Organic Vanilla Frosting;http://shop.wholesomesweet.com/Organic-Vanilla-Frosting/p/WHSM-801335&c=Wholesome@Frosting;checked;;Sugar Monsters;
+165;Organic Invert Sugar Cane Syrup;;;;;;;ASR;Wholesome Organic Chocolate Frosting;http://shop.wholesomesweet.com/Organic-Chocolate-Frosting/p/WHSM-801311&c=Wholesome@Frosting;checked;;Sugar Monsters;
+166;Organic Invert Sugar Syrup;X;X;X;;;;ASR;Clif Bar Blueberry Crisp Bar;https://shop.clifbar.com/CLIF-Bar-Blueberry-Crisp/p/CLIF-102607&c=ClifBar@ClifBar@Bars;checked;;Sugar Monsters;
+167;Organic Lactose;;;;X;;;ASR;Earth'S Best Organic Infant Formula;https://www.earthsbest.com/en/products/dairy-infant-formula-23-2oz/;checked;;OSE Monsters;
+168;Organic Light Brown Sugar;;;;;;;ASR;Gluten-Free / Vegan Chocolate Chocolate Chip;https://www.jackiescookieconnection.com/ingredients;checked;;Sugar Monsters;
+169;Organic Maltodextrin;;;;;;;ASR;Vermont Organic Infant Formula;http://www.vermontorganicsformula.com/Organic-Baby-Formula.aspx;checked;;Dextrin Monsters;
+170;Organic Maple Syrup;X;X;X;X;X;;ASR;Bakery On Main'S Organic Happy Granola Sprouted Maple Quinoa;https://bakeryonmain.com/shop/organic-happy-granola-sprouted-maple-quinoa/;checked;;Syrup Monsters;
+171;Organic Milled Cane Sugar;;;;;;;ASR;Wegmans Food You Feel Good About Granola, Organic, Coconut & Baobab;https://www.wegmans.com/products/grocery-food/breakfast/granola/granola-organic-coconut-baobab.html;checked;;Cane Monsters;
+172;Organic Molasses;;;;;;;ASR;Woodstock Organic Bbq Sauce, Hickory;http://www.plummarket.com/store/woodstock-organic-hickory-bbq-sauce-18oz.html;checked;;Other Monsters;
+173;Organic Molasses Granules;;;;;;;ASR;St. Claire'S Ginger Pastilles, Organic;https://www.azurestandard.com/shop/product/food/sweets-candies/mints/ginger/ginger-pastilles-organic/9632?package=SC058;checked;;Other Monsters;
+174;Organic Non-Gmo Honey;;;;;;;ASR;Pamela Mini Honey Grahams;http://www.pamelasproducts.com/products/graham-crackers-gluten-free/mini-honey-grahams-gluten-free/;checked;;Other Monsters;
+175;Organic Pineapple Juice Concentrate;;;;;;;ASR;Woodstock Organic Bbq Sauce, Hickory;http://www.plummarket.com/store/woodstock-organic-hickory-bbq-sauce-18oz.html;checked;;Concentrate Monsters;
+176;Organic Powdered Sugar;;;;;;;ASR;Unreal Dark Chocolate Peanut Butter Cups;http://getunreal.com/;checked;;Sugar Monsters;
+177;Organic Raw Dark Agave Syrup;;;;X;;;ASR;Cherry Almond;https://www.mountainmuesli.com/cereal-1/cherry-almond;checked;;Syrup Monsters;
+178;Organic Raw Honey;;;;;;;ASR;Hazelnut Butter Bliss;http://www.blissnutbutters.com/product/hazelnut-butter-bliss/;checked;;Other Monsters;
+179;Organic Rice Maltodextrin;;;;;;;;Nature's One Pedia Smart Complete Nutrition Beverage for Kids 1 to 13 Years Vanilla;https://naturesone.zendesk.com/hc/en-us/articles/201462216-PediaSmart-Dairy-Ingredients-Quality;;;;
+180;Organic Rice Syrup;;;;;;;ASR;Organic Cinnamon Flax Granola;https://www.fielddayproducts.com/product/organic-cinnamon-flax-granola-4256360373;checked;;Syrup Monsters;
+181;Organic Strawberry Juice Concentrate;;;;;;;ASR;Andean Dream Quinoa Coconut Cookies;https://www.stonyfield.com/products/baby-kids/kids/tubes-whole-milk-strawberry-banana;checked;;Concentrate Monsters;
+182;Organic Sugar;;;;;;;ASR;Wholesome Organic Vanilla Frosting;http://shop.wholesomesweet.com/Organic-Vanilla-Frosting/p/WHSM-801335&c=Wholesome@Frosting;checked;;Sugar Monsters;
+183;Organic Sugar Cane Syrup;;;;;;;ASR;Quinoa Coconut Cookies;http://www.andeandream.com/quinoa-cookies.html;checked;;Sugar Monsters;
+184;Organic Tapioca Maltodextrin;;;;;;;ASR;Whole Foods Sunny Citrus Organic Bunny Fruit Snacks;http://shop.wholesomesweet.com/Wholesome-Organic-Fruit-Chews/p/WHSM-531423&c=Wholesome@Candy;checked;;Dextrin Monsters;
+185;Organic Tapioca Syrup;;;;;;X;ASR;Whole Foods Sunny Citrus Organic Bunny Fruit Snacks;https://www.annies.com/products/snacks/sour-bunnies-fruit-snacks;checked;;Syrup Monsters;
+186;Organic White Grape Juice Concentrate;;;;;;;ASR;Honey Almonds Glazed Mix;https://www.sahalesnacks.com/products/honey-almonds-glazed-mix;checked;;Concentrate Monsters;
+187;Passion Fruit Juice Concentrate;;;;;;;ASR;Hawaii Own Pineapple Starfuit Juice;http://www.hawaiisown.com/site/products/pineapple-starfruit/;checked;;Concentrate Monsters;
+188;Peach Concentrate;;;;;;;;B&G Backtonaturefoods Gluten-Free Apple Blueberry Granola;https://www.backtonaturefoods.com/what-we-make/granola/granola/gluten-free-apple-blueberry-granola/;checked;;Concentrate Monsters;
+189;Peach Juice Concentrate;;;;;;;ASR;Bai Antioxidant Infusion Panama Peach;https://www.drinkbai.com/products/panama-peach;checked;;Concentrate Monsters;
+190;Pear Concentrate;;;;;;;;B&G Backtonaturefoods Gluten-Free Apple Blueberry Granola;https://www.backtonaturefoods.com/what-we-make/granola/granola/gluten-free-apple-blueberry-granola/;checked;;Concentrate Monsters;
+191;Pear Juice Concentrate;;;;;;;ASR;Kashi Cereal Bars, Ripe Strawberry;https://www.kashi.com/our-foods/bars/kashi-cereal-bars-ripe-strawberry;checked;;Concentrate Monsters;
+192;Pear Syrup;;;;;;;;B&G Backtonaturefoods Gluten-Free Apple Blueberry Granola;https://www.backtonaturefoods.com/what-we-make/granola/granola/gluten-free-apple-blueberry-granola/;checked;;Syrup Monsters;
+193;Pineapple Syrup;;;;;;;ASR;Special K Bar Dark Chocolate Pomegranate Chewy Snack Bar;http://www.specialk.com/en_US/products/special-k-snack-bars-dark-chocolate-pomegranet-product.html;checked;;Syrup Monsters;
+194;Plum Juice Concentrate;;;;;;;ASR;Special K Dark Chocolate Pomegranate Chewy Snack Bar;http://www.specialk.com/en_US/products/special-k-snack-bars-dark-chocolate-pomegranet-product.html;checked;;Concentrate Monsters;
+195;Pomegranate Juice Concentrate;;;;;;;ASR;Bai Antioxidant Infusion Ipanema Pomegranate;https://www.drinkbai.com/products/ipanema-pomegranate;checked;;Concentrate Monsters;
+196;Pure Cane Golden Brown Sugar;;;;;;;;Boysenberry Chocolate Chip;https://www.jackiescookieconnection.com/ingredients;checked;;Cane Monsters;
+197;Pure Cane Sugar;;;;;;;ASR;Starbucks Almond Butter Strawberry & Jam Sandwich;https://www.starbucks.com/menu/food/mercato/almond-butter-strawberry-jam;checked;;Cane Monsters;
+198;Pure Maple Syrup;;;;;;;ASR;Michele'S Granola Toasted Muesli;https://www.michelesgranola.com/products/toasted-muesli;checked;;Syrup Monsters;
+199;Raisin Juice Concentrate;;;;;;;ASR;New Yorker Bagels Kettle Boiled Wheat Bagel;https://wholesale-bagels.newyorkerbagels.com/wp-content/uploads/2015/02/NYWB-Wheat-Everything-water-bagles.pdf;checked;;Concentrate Monsters;
+200;Raisin Nectar;;;;;;;ASR;Silver Hills Squirrelly Bread;https://silverhillsbakery.ca/our-products/squirrelly-bread/;checked;;Other Monsters;
+201;Raspberry Juice Concentrate;;;;;;;ASR;Turkey Hill Raspberry Cream Swirl Ice Cream;https://www.turkeyhill.com/frozen/ice-cream/premium-ice-cream/raspberry-cream-swirl;checked;;Concentrate Monsters;
+202;Raw Cane Sugar;;;;;;;ASR;Classic Coffee Cubes;https://jivacubes.com/product/classic-coffee-cubes/;checked;;Cane Monsters;
+203;Raw Honey;;;;;;;x;Cappellos Gluten And Grain Free Pepperoni Pizza;https://cappellos.com/products/pepperoni-pizza-1;checked;;Other Monsters;
+204;Raw Sugar;X;X;X;;X;;ASR;Starbucks Cubano Sandwich;https://www.starbucks.com/menu/food/mercato/smoked-pork-cubano;checked;;Sugar Monsters;
+205;Refiner's Syrup;;;;X;;;ASR;General Mills French Toast Crunch Cereal;https://www.generalmills.com/en/Brands/Cereals/cinnamon-toast-crunch/brand-product-list;checked;;Syrup Monsters;
+206;Refinery Syrup;;;;;;;;Friday'S Honey Bbq Chicken Wings;http://www.fridaysinyourfreezer.com/Products/Chicken%20Wings%20Honey%20BBQ%209%20OZ;checked;;Syrup Monsters;
+207;Rice Maltodextrin;;;;;;;ASR;Nature Valley Protein Bar Coconut Almond;https://www.naturevalley.com/product/gluten-free-protein-bars-coconut-almond/;checked;;Dextrin Monsters;
+208;Rice Syrup Solids;;;;;;;http://www.nutritionalmagnesium.org/high-fructose-corn-syrup-and-the-obesity-epidemic/;Perfectlyfree Mint Chocolate;https://www.perfectlyfree.com/bites/?flavor=mint-chocolate;checked;;Syrup Monsters;
+209;Strawberry Juice Concentrate;;;;;;;ASR;Bai Antioxidant Infusion Sao Paulo Strawberry;https://www.drinkbai.com/products/sao-paulo-strawberry-lemon;checked;;Concentrate Monsters;
+210;Sugar;;;X;;;;ASR;General Mills Honey Nut Cheerios Cereal;https://www.cheerios.com/products/honey-nut-cheerios/;checked;;Sugar Monsters;
+211;Sugar Beet Syrup;;;;;;;ASR;Westminster Baker Lucy Superfruit Cookies;https://www.westminstercrackers.com/superfruit-cookies;checked;;Sugar Monsters;
+212;Sugar Cane Syrup;;;;;;;ASR;Udi Delicious Soft White Sandwich Bread;https://udisglutenfree.com/products/delicious-soft-white-sandwich-bread-12-oz/;checked;;Sugar Monsters;
+213;Sugarcane Molasses;;;X;;;;ASR;Starbucks Ham And Ny Cheddar Sandwich;https://www.starbucks.com/menu/food/sandwiches-panini-and-wraps/ham-ny-cheddar-sandwich?foodZone=9999;checked;;Sugar Monsters;
+214;Syrup;;;X;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;X;;ASR;Daelmans Caramel Mini Stroopwafels;https://www.stroopwafels.com/us/product/daelmans-mini-caramel-200-pcs/;checked;;Syrup Monsters;
+215;Tapioca Dextrin;;;;;;;ASR;Stubb Spicy Bar-B-Q Sauce;https://www.stubbsbbq.com/product/spicy/;checked;;Dextrin Monsters;
+216;Tapioca Maltodextrin;;;;;;;ASR;Starbucks Ham And Ny Cheddar Sandwich;https://www.starbucks.com/menu/food/sandwiches-panini-and-wraps/ham-ny-cheddar-sandwich?foodZone=9999;checked;;Dextrin Monsters;
+217;Tapioca Syrup;;;;;;;ASR;Nugo Vanilla Yogurt;https://store.nugonutrition.com/nugo-vanilla-yogurt;checked;;Syrup Monsters;
+218;Tapioca Syrup Solids;;;;;;;x;Ciao Bella Coconut Sorbetto;https://www.ewg.org/foodscores/products/799512012037-CiaoBellaCoconutSorbetto;checked;;Syrup Monsters;
+219;Tart Cherry Juice Concentrate;;;;;;X;ASR;Kevita Master Brew Kombucha Tart Cherry;https://www.kevita.com/tart-cherry/;checked;;Concentrate Monsters;
+220;Treacle;;;;X;;;ASR;Kilwins Red Licorice Twists;https://www.kilwins.com/shop/more-favorites/red-licorice-twists;checked;;Other Monsters;
+221;Trehalose;X;X;;;;;ASR;Miyasaka Freeze Fried Authentic [Instant] Miso Soup;http://miyasaka-usa.com/freeze-dried-authentic-instant-miso-soup/;checked;;OSE Monsters;
+222;Turbinado Sugar;X;X;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;Au Bon Pain Turkey Club;https://www.aubonpain.com/(GetProductDetails)/menu?id=194;checked;;Sugar Monsters;
+223;Unsulfured Molasses;;;;;;;ASR;Barbara'S Bakery Better Than Granola Oats & Honey Granola;https://www.thefreshgrocer.com/pd/Barbaras-Bakery/Better-than-Granola-Oats-and-Honey-Granola-Cereal/10-oz/070617300107/;checked;;Other Monsters;
+224;Watermelon Juice Concentrate;;;;;;;ASR;Bai Antioxidant Infusion Kula Watermelon;https://www.drinkbai.com/products/kula-watermelon;checked;;Concentrate Monsters;
+225;Wheat Dextrin;;;;;;;ASR;Benefiber Original;https://www.benefiber.com/fiber-supplement-products/benefiber-powder/;checked;;Dextrin Monsters;
+226;Wheat Glucose Syrup;;;;;;;ASR;Sweet Gourmet Kookaburra Black Australian Licorice;http://www.sweetgourmet.com/sweetgourmet-kookaburra-black-australian-licorice.html;checked;;OSE Monsters;
+227;White Grape Juice Concentrate;;;;;;X;;Dole Fruit Bowls Cherry Mixed Fruit In 100% Fruit Juice;https://dolesunshine.com/products/fruit-bowls/regular/cherry-mixed-fruit-in-100-juice;checked;;Concentrate Monsters;
+228;White Sugar;;https://www.nal.usda.gov/sites/default/files/fnic_uploads//265-338.pdf;;http://dtc.ucsf.edu/pdfs/Sweeteners_04.30.10.pdf;;;ASR;Fun Factory Sweet Shoppe Blueberry Popcorn;https://funfactorysweets.com/products/blueberry;checked;;Sugar Monsters;
+229;Wildflower Honey;;;;;;;ASR;Udi Gluten Free Au Naturel Granola;https://udisglutenfree.com/products/gluten-free-au-naturel-granola/;checked;;Other Monsters;
+230;Yellow Sugar;;;;X;;;;Culinary Tours Szechuan Style Peanut Sauce;http://culinarytoursfoods.com/product/szechwan-sauce-marinade-peanuts/;checked;;Sugar Monsters;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
