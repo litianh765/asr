@@ -37,11 +37,13 @@
                 var asrName = findName(asr_data[0], "Name of Added Sugar");
                 var productName = findName(asr_data[0], "Product Name");
                 var urlName = findName(asr_data[0], "URL");
+				//added description column
+				var description = findName(asr_data[0], "Description");
                 for (var count = 0; count < asr_data.length; count++) {
                     var cell_data = asr_data[count].split(";");
                     table_data += '<tr>';
                     for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
-                        if (count === 0 && (cell_count === 0 || cell_count === asrName || cell_count === productName)) {
+                        if (count === 0 && (cell_count === 0 || cell_count === asrName || cell_count === productName || cell_count === description)) {
                             table_data += '<th>' + cell_data[cell_count] + '</th>';
                         }
                         else {
@@ -61,6 +63,9 @@
                                 else if (cell_count === asrName) {
                                     table_data += '<td>' + cell_data[asrName] + '</td>';
                                 }
+								else if (cell_count === description){
+									table_data += '<td>' + cell_data[description] + '</td>';
+								}
                             }
                         }
                     }
